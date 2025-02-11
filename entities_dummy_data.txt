@@ -1,0 +1,3014 @@
+{
+  "Entities": [
+    {
+      "Entity": {
+        "Name": "Research Infrastructure & HSE Management Office - Corelab",
+        "Head": {
+          "Name": "Issam RABTTI",
+          "Email": "issam.rabtti@um6p.ma",
+          "PhoneNumber": "+212-000-000"
+        },
+        "Location": "Building A, Floor 3",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Infrastructure and HSE management consultancy",
+            "TargetAudience": "Research teams and laboratories",
+            "Availability": "Monday to Friday, 9 AM to 5 PM",
+            "ServiceCost": "Based on project scope",
+            "ContactPerson": "Issam RABTTI"
+          },
+          {
+            "ServiceDescription": "HSE training programs",
+            "TargetAudience": "Employees and contractors",
+            "Availability": "Monthly sessions",
+            "ServiceCost": "Custom pricing",
+            "ContactPerson": "Issam RABTTI"
+          },
+          {
+            "ServiceDescription": "HSE audit services",
+            "TargetAudience": "Corporate clients",
+            "Availability": "On demand",
+            "ServiceCost": "Quoted per project",
+            "ContactPerson": "Issam RABTTI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Corelab HSE Facility",
+            "Description": "Advanced HSE compliance tools and monitoring systems",
+            "BookingAccessProcess": "Contact via email",
+            "Availability": "Available upon request",
+            "Cost": "Free for internal teams",
+            "ContactPerson": "Issam RABTTI"
+          },
+          {
+            "ResourceName": "HSE Training Room",
+            "Description": "Dedicated space for safety training programs",
+            "BookingAccessProcess": "Online booking",
+            "Availability": "Monday to Friday, 9 AM to 6 PM",
+            "Cost": "Included in training packages",
+            "ContactPerson": "Issam RABTTI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Research Collaboration",
+            "Description": "Collaborative projects in HSE management",
+            "TargetPartners": "Universities and industry leaders",
+            "ContactPerson": "Issam RABTTI"
+          },
+          {
+            "CollaborationType": "Training Partnerships",
+            "Description": "Partnerships for co-developing HSE courses",
+            "TargetPartners": "Educational institutions",
+            "ContactPerson": "Issam RABTTI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Operating Office",
+        "Head": {
+          "Name": "Charaf HASSAR",
+          "Email": "charaf.hassar@um6p.ma",
+          "PhoneNumber": "+212-111-111"
+        },
+        "Location": "Building B, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Operational strategy and support",
+            "TargetAudience": "Administrative departments",
+            "Availability": "Monday to Friday, 9 AM to 6 PM",
+            "ServiceCost": "Internal service",
+            "ContactPerson": "Charaf HASSAR"
+          },
+          {
+            "ServiceDescription": "Process optimization services",
+            "TargetAudience": "All organizational units",
+            "Availability": "On demand",
+            "ServiceCost": "Project-based pricing",
+            "ContactPerson": "Charaf HASSAR"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Meeting Rooms",
+            "Description": "Fully equipped meeting rooms for operational planning",
+            "BookingAccessProcess": "Online booking through intranet",
+            "Availability": "Monday to Friday, 8 AM to 8 PM",
+            "Cost": "Free for staff",
+            "ContactPerson": "Charaf HASSAR"
+          },
+          {
+            "ResourceName": "Shared Workspace",
+            "Description": "Collaborative office space for operational teams",
+            "BookingAccessProcess": "Pre-booking required",
+            "Availability": "Monday to Saturday, 9 AM to 5 PM",
+            "Cost": "Free for internal use",
+            "ContactPerson": "Charaf HASSAR"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Operational Support",
+            "Description": "Joint efforts in process improvement",
+            "TargetPartners": "Departments and external consultants",
+            "ContactPerson": "Charaf HASSAR"
+          },
+          {
+            "CollaborationType": "Technology Integration",
+            "Description": "Partnering to introduce new tools",
+            "TargetPartners": "Tech companies",
+            "ContactPerson": "Charaf HASSAR"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Agri edge",
+        "Head": {
+          "Name": "Faissal SEHBAOUI",
+          "Email": "faissal.sehbaoui@um6p.ma",
+          "PhoneNumber": "+212-222-222"
+        },
+        "Location": "Building C, Ground Floor",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Precision agriculture solutions",
+            "TargetAudience": "Farmers and agricultural businesses",
+            "Availability": "Monday to Saturday, 8 AM to 4 PM",
+            "ServiceCost": "Subscription-based",
+            "ContactPerson": "Faissal SEHBAOUI"
+          },
+          {
+            "ServiceDescription": "Crop monitoring services",
+            "TargetAudience": "Agricultural cooperatives",
+            "Availability": "Seasonal",
+            "ServiceCost": "Based on acreage",
+            "ContactPerson": "Faissal SEHBAOUI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Agri Tech Lab",
+            "Description": "Innovative tools for precision agriculture",
+            "BookingAccessProcess": "Contact lab admin",
+            "Availability": "Monday to Friday, 9 AM to 5 PM",
+            "Cost": "Membership required",
+            "ContactPerson": "Faissal SEHBAOUI"
+          },
+          {
+            "ResourceName": "Soil Testing Facility",
+            "Description": "Advanced soil analysis equipment",
+            "BookingAccessProcess": "Online registration",
+            "Availability": "Monday to Friday, 9 AM to 4 PM",
+            "Cost": "Pay per test",
+            "ContactPerson": "Faissal SEHBAOUI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Agricultural Research",
+            "Description": "Collaborations in sustainable agriculture",
+            "TargetPartners": "Research institutes and agri-tech companies",
+            "ContactPerson": "Faissal SEHBAOUI"
+          },
+          {
+            "CollaborationType": "Training and Workshops",
+            "Description": "Conducting capacity-building sessions for farmers",
+            "TargetPartners": "Farmer associations",
+            "ContactPerson": "Faissal SEHBAOUI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Learning Center",
+        "Head": {
+          "Name": "Khalid SAIDI",
+          "Email": "khalid.saidi@emines.um6p.ma",
+          "PhoneNumber": "+212-333-333"
+        },
+        "Location": "Building D, Floor 1",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Academic resources and support",
+            "TargetAudience": "Students and researchers",
+            "Availability": "Monday to Friday, 8 AM to 8 PM",
+            "ServiceCost": "Free for UM6P students",
+            "ContactPerson": "Khalid SAIDI"
+          },
+          {
+            "ServiceDescription": "Tutoring and mentoring programs",
+            "TargetAudience": "Undergraduate students",
+            "Availability": "Evenings",
+            "ServiceCost": "Free",
+            "ContactPerson": "Khalid SAIDI"
+          },
+          {
+            "ServiceDescription": "Digital library access",
+            "TargetAudience": "All UM6P affiliates",
+            "Availability": "24/7",
+            "ServiceCost": "Included in tuition",
+            "ContactPerson": "Khalid SAIDI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Library",
+            "Description": "Comprehensive collection of academic materials",
+            "BookingAccessProcess": "Student ID required",
+            "Availability": "Monday to Friday, 9 AM to 7 PM",
+            "Cost": "Free",
+            "ContactPerson": "Khalid SAIDI"
+          },
+          {
+            "ResourceName": "Computer Labs",
+            "Description": "State-of-the-art computing facilities for academic use",
+            "BookingAccessProcess": "Lab registration required",
+            "Availability": "Monday to Saturday, 8 AM to 8 PM",
+            "Cost": "Free for registered users",
+            "ContactPerson": "Khalid SAIDI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Education Partnerships",
+            "Description": "Collaborative educational programs",
+            "TargetPartners": "Universities and educational institutions",
+            "ContactPerson": "Khalid SAIDI"
+          },
+          {
+            "CollaborationType": "Research Assistance",
+            "Description": "Joint research initiatives",
+            "TargetPartners": "Research organizations",
+            "ContactPerson": "Khalid SAIDI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Technology Development Cell - TechCell",
+        "Head": {
+          "Name": "Mohamed EL KHOUAKHI",
+          "Email": "mohamed.elkhouakhi@um6p.ma",
+          "PhoneNumber": "+212-444-444"
+        },
+        "Location": "Building E, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Technology innovation and support",
+            "TargetAudience": "Researchers and startups",
+            "Availability": "Monday to Friday, 9 AM to 5 PM",
+            "ServiceCost": "Free for academic projects",
+            "ContactPerson": "Mohamed EL KHOUAKHI"
+          },
+          {
+            "ServiceDescription": "Prototype development",
+            "TargetAudience": "Research teams",
+            "Availability": "On demand",
+            "ServiceCost": "Based on project scope",
+            "ContactPerson": "Mohamed EL KHOUAKHI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "TechCell Lab",
+            "Description": "Advanced tools for prototype creation",
+            "BookingAccessProcess": "Contact lab admin",
+            "Availability": "Available upon request",
+            "Cost": "Membership required",
+            "ContactPerson": "Mohamed EL KHOUAKHI"
+          },
+          {
+            "ResourceName": "Innovation Workshop",
+            "Description": "Space for collaborative innovation",
+            "BookingAccessProcess": "Online booking",
+            "Availability": "Monday to Friday, 8 AM to 6 PM",
+            "Cost": "Free for approved projects",
+            "ContactPerson": "Mohamed EL KHOUAKHI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Technology Research",
+            "Description": "Joint efforts in tech innovation",
+            "TargetPartners": "Tech companies and universities",
+            "ContactPerson": "Mohamed EL KHOUAKHI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "CCI (Centre de Compétence Industriel)",
+        "Head": {
+          "Name": "Mohamed LAKLALECH",
+          "Email": "mohamed.laklalech@um6p.ma",
+          "PhoneNumber": "+212-555-555"
+        },
+        "Location": "Building F, Floor 1",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Industrial skill development programs",
+            "TargetAudience": "Manufacturing sector professionals",
+            "Availability": "Monday to Friday, 8 AM to 5 PM",
+            "ServiceCost": "Variable pricing",
+            "ContactPerson": "Mohamed LAKLALECH"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Training Rooms",
+            "Description": "Spaces for industrial skills workshops",
+            "BookingAccessProcess": "Email for booking",
+            "Availability": "Weekdays",
+            "Cost": "Based on usage",
+            "ContactPerson": "Mohamed LAKLALECH"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Training Programs",
+            "Description": "Collaborations in industrial skill training",
+            "TargetPartners": "Industries and technical schools",
+            "ContactPerson": "Mohamed LAKLALECH"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Sports department",
+        "Head": {
+          "Name": "Mostafa EL MADKOURI",
+          "Email": "mostafa.elmadkouri@um6p.ma",
+          "PhoneNumber": "+212-666-666"
+        },
+        "Location": "Building G, Sports Complex",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Sports training programs",
+            "TargetAudience": "Students and staff",
+            "Availability": "Weekdays, 9 AM to 8 PM",
+            "ServiceCost": "Free for UM6P members",
+            "ContactPerson": "Mostafa EL MADKOURI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Sports Facilities",
+            "Description": "Modern sports infrastructure for various activities",
+            "BookingAccessProcess": "Contact via email",
+            "Availability": "Open during sports hours",
+            "Cost": "Free",
+            "ContactPerson": "Mostafa EL MADKOURI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Sports Partnerships",
+            "Description": "Collaborations in organizing sports events",
+            "TargetPartners": "Sports organizations",
+            "ContactPerson": "Mostafa EL MADKOURI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Al Moutmir",
+        "Head": {
+          "Name": "Naoufel ROUDIES",
+          "Email": "nawfel.roudies@um6p.ma",
+          "PhoneNumber": "+212-777-777"
+        },
+        "Location": "Building H, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Sustainable agriculture solutions",
+            "TargetAudience": "Farmers and agri-businesses",
+            "Availability": "Monday to Friday, 9 AM to 6 PM",
+            "ServiceCost": "Free for partner farmers",
+            "ContactPerson": "Naoufel ROUDIES"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Agriculture Labs",
+            "Description": "Research and development in sustainable farming",
+            "BookingAccessProcess": "Contact lab manager",
+            "Availability": "On request",
+            "Cost": "Project-based pricing",
+            "ContactPerson": "Naoufel ROUDIES"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Research Collaboration",
+            "Description": "Joint efforts in agricultural research",
+            "TargetPartners": "Research institutes",
+            "ContactPerson": "Naoufel ROUDIES"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Directeur pédagogique de l’Institut of Science Technology & Innovation - IST&I",
+        "Head": {
+          "Name": "Redoaune BENI AZZA",
+          "Email": "redouane.beniazza@um6p.ma",
+          "PhoneNumber": "+212-888-888"
+        },
+        "Location": "Building I, Floor 3",
+        "Website": "https://www.moroccoworldnews.com/2023/03/354449/ocp-um6p-implement-171-research-projects-for-sustainable-development",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Innovation and technology programs",
+            "TargetAudience": "Researchers and innovators",
+            "Availability": "Weekdays, 9 AM to 5 PM",
+            "ServiceCost": "Grants-based",
+            "ContactPerson": "Redoaune BENI AZZA"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Innovation Labs",
+            "Description": "Facilities for technology development",
+            "BookingAccessProcess": "Email booking required",
+            "Availability": "Weekdays",
+            "Cost": "Free for funded projects",
+            "ContactPerson": "Redoaune BENI AZZA"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Innovation Projects",
+            "Description": "Collaborative efforts in technology and innovation",
+            "TargetPartners": "Tech startups and universities",
+            "ContactPerson": "Redoaune BENI AZZA"
+          }
+        ]
+      }
+    },
+  
+      {
+        "departmentName": "UGF / R&D & TT - Unité de Gestion du Fonds ",
+        "headOfDepartment": "Ryad MOULINE",
+        "email": "ryad.mouline@um6p.ma",
+        "Offered_Services": [
+          {
+            "name": "Ingénierie des besoins",
+            "description": "<span data-teams=\"true\">Identification des thématiques, des thèmes ou des sujets</span>",
+            "target": "null",
+            "cost": "null",
+            "availability": "null",
+            "contactPerson": "null",
+            "documents": "N/A"
+          },
+          {
+            "name": "Elaboration des termes de référence (TDR)",
+            "description": "<span data-teams=\"true\">Règlement des appels à projets</span>",
+            "target": "null",
+            "cost": "null",
+            "availability": "null",
+            "contactPerson": "null",
+            "documents": "N/A"
+          },
+          {
+            "name": "Lancement des AP",
+            "description": "<span data-teams=\"true\">En une ou deux étapes, avec cibles identifiées en collaboration</span>",
+            "target": "null",
+            "cost": "null",
+            "availability": "null",
+            "contactPerson": "null",
+            "documents": "N/A"
+          },
+          {
+            "name": "Sélection des projets",
+            "description": "<span data-teams=\"true\">Sur la base de budgets pré-définis</span>",
+            "target": "null",
+            "cost": "null",
+            "availability": "null",
+            "contactPerson": "null",
+            "documents": "N/A"
+          },
+          {
+            "name": "Contractualisation des projets retenus",
+            "description": "null",
+            "target": "null",
+            "cost": "null",
+            "availability": "null",
+            "contactPerson": "null",
+            "documents": "N/A"
+          },
+          {
+            "name": "Mise en œuvre des projets",
+            "description": "<span data-teams=\"true\">Gestion des activités conformément aux objectifs</span>",
+            "target": "null",
+            "cost": "null",
+            "availability": "null",
+            "contactPerson": "null",
+            "documents": "N/A"
+          },
+          {
+            "name": "Exécution des besoins des équipes projets",
+            "description": "<span data-teams=\"true\">Fourniture des ressources nécessaires</span>",
+            "target": "null",
+            "cost": "null",
+            "availability": "null",
+            "contactPerson": "null",
+            "documents": "N/A"
+          },
+          {
+            "name": "Suivi et évaluation de l’avancement",
+            "description": "<span data-teams=\"true\">Mesure des progrès des projets</span>",
+            "target": "null",
+            "cost": "null",
+            "availability": "null",
+            "contactPerson": "null",
+            "documents": "N/A"
+          },
+          {
+            "name": "Suivi des livrables des projets",
+            "description": "null",
+            "target": "null",
+            "cost": "null",
+            "availability": "null",
+            "contactPerson": "null",
+            "documents": "N/A"
+          },
+          {
+            "name": "Clôture des projets",
+            "description": "<span data-teams=\"true\">Documentation finale et résultats</span>",
+            "target": "null",
+            "cost": "null",
+            "availability": "null",
+            "contactPerson": "null",
+            "documents": "N/A"
+          },
+          {
+            "name": "Étude d’impact",
+            "description": "<span data-teams=\"true\">Analyse des résultats des projets</span>",
+            "target": "null",
+            "cost": "null",
+            "availability": "null",
+            "contactPerson": "null",
+            "documents": "N/A"
+          },
+          {
+            "name": "Organisation de manifestations scientifiques",
+            "description": "<span data-teams=\"true\">Mise en avant des résultats et perspectives</span>",
+            "target": "null",
+            "cost": "null",
+            "availability": "null",
+            "contactPerson": "null",
+            "documents": "N/A"
+          }
+        ],
+        "Collaborative_Opportunities": [
+          {
+            "name": "APRD - Appel à Projets R&D",
+            "type": "En cours",
+            "description": "<div style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\"><b>&nbsp;<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Objectifs du programme :</span></b></div><div style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">• Encourager la recherche appliquée, la technologie et l’innovation ;</div><div style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">• Renforcer le rapprochement entre le monde académique, d’un côté, et le monde de l’entreprise</div><div style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">et des opérateurs socio-économiques et améliorer la compétitivité des entreprises marocaines;</div><div style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">• Créer une nouvelle dynamique au niveau de la recherche nationale en encourageant la</div><div style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">recherche appliquée et le transfert technologique.</div><div style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\"><b>Thématiques du programme :</b></div><div style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">• Matériaux, Chimie et Énergie ;</div><div style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">• Santé, Médecine, Biologie et Biotechnologie ;</div><div style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">• Agronomie, Agriculture et Sciences vétérinaires;</div><div style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">• Géologie et Minéralogie ;</div><div style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">• Sciences de l’Environnement, Eau et Sol ;</div><div style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">• Intelligence Artificielle, Mathématiques appliquées et Nanotechnologie</div>",
+            "targetPartners": "UM6P, MESRSI, FOCP et CNRST",
+            "contactPerson": "mohamed.lahouaoui@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "APRA - Appel à Projets R&D Multithématique",
+            "type": "En cours",
+            "description": "<div><b>Objectifs du programme :</b></div><div>• Promouvoir la recherche appliquée, le développement technologique et l’innovation ;</div><div>• Favoriser la collaboration multidisciplinaire intra-UM6P ;</div><div>• Stimuler l’émergence d’idées de projets dans différents domaines ;</div><div>• Créer une nouvelle dynamique dans la recherche à l’UM6P en élargissant son champ</div><div>d’investigation ;</div><div>• Renforcer les liens entre l’UM6P et le monde de l’entreprise ainsi que les acteurs socioéconomiques</div><div>et améliorer la compétitivité des entreprises marocaines.</div><div><b>Thématiques du programme :</b></div><div>• Géologie et Minéralogie</div><div>• Sciences sociales, Transformation économique, Management et Finance</div><div>• Santé, Médecine, Biologie et Biotechnologie</div><div>• Sciences de l’environnement, Eau et Sol</div><div>• Matériaux, Chimie et Énergie</div><div>• Urbanisme et développement durable</div><div>• Agronomie, Agriculture et Sciences vétérinaires</div>",
+            "targetPartners": "UM6P, FOCP",
+            "contactPerson": "safa.saadaoui@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "Appel à projets R&D en sciences de la vie",
+            "type": "En cours",
+            "description": "<div><b>Objectifs du programme :</b></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Encourager la recherche dans le domaine des sciences de la vie ;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Soutenir le développement de projets ayant de l’impact sur l’écosystème socio-économique, technologique et sanitaire ;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Renforcer la collaboration entre les chercheurs INH et de UM6P.</span></div><div><b>Thématiques du programme :</b></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Santé, Médecine, Biologie et Biotechnologie,</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Intelligence Artificielle, Mathématiques appliquées et Nanotechnologie.</span></div>",
+            "targetPartners": "UM6P, FOCP",
+            "contactPerson": "safa.saadaoui@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "Appel à projets R&D en Virologie et Biotechnologie",
+            "type": "En cours",
+            "description": "<div><b>Objectifs du programme :</b></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Encourager la recherche dans le domaine de virologie ;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Soutenir le développement de projets ayant de l’impact sur l’écosystème technologique et sanitaire ;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Renforcer la collaboration entre les chercheurs IPM et de UM6P.</span></div><div><b>Thématiques du programme :</b></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Santé, Médecine, Biologie et Biotechnologie;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Intelligence Artificielle, Mathématiques appliquées et Nanotechnologie.</span></div>",
+            "targetPartners": "UM6P, FOCP",
+            "contactPerson": "safa.saadaoui@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "SEHSM : Economics, Humanities, Social Sciences and Management",
+            "type": "En cours",
+            "description": "<div><b>Objectifs du programme :</b></div><div>• Encourager la recherche appliquée dans le domaine de l’économie, des sciences humaines,</div><div>des sciences sociales et de la gestion ;</div><div>• Valider des axes de recherche prometteurs dans le cadre de projets de recherches délimités ;</div><div>• Soutenir le développement de projets académiques ambitieux et leur impact sur l’écosystème</div><div>économique ;</div><div>• Encourager l’interdisciplinarité.</div><div><b>Thématiques du programme :</b></div><div>• Sciences sociales, Transformation économique, Management et Finance</div><div>• Urbanisme et développement durable</div>",
+            "targetPartners": "UM6P, FOCP",
+            "contactPerson": "safa.saadaoui@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "SIL - Social Innovation Lab",
+            "type": "En cours",
+            "description": "<div><b>Objectif du programme :</b></div><div>• Mettre en place un modèle social innovant suite à la crise de coronavirus qu’a connu le monde</div><div>entier.</div><div><b>Thématiques du programme :</b></div><div>• Sciences sociales, Transformation économique, Management et Finance</div>",
+            "targetPartners": "UM6P, FOCP",
+            "contactPerson": "safa.saadaoui@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "GAP YIELD",
+            "type": "En cours",
+            "description": "<div><b>Objectif du programme :</b></div><div>• Analyse des écarts de rendement de l’échelle locale à l’échelle mondiale dans le contexte</div><div>du changement climatique en Afrique à l’aide de la télédétection et de la modélisation de la</div><div>croissance des cultures sciences de l’environnement, eau et sol.</div><div><b>Thématiques du programme :</b></div><div>• Sciences de l’environnement, Eau et Sol</div>",
+            "targetPartners": "A-LAB, SRCA/African Partner, FOCP",
+            "contactPerson": "abdeljalil.ettiba@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "INRA - Programme de R&D UM6P/INRA",
+            "type": "En cours",
+            "description": "<div><b>Objectifs du programme :</b></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Encourager la recherche dans les domaines de l’agriculture en stimulant l’exploration de nouvelles méthodes, technologies et pratiques agricoles afin d’améliorer la productivité, la durabilité environnementale et la résilience des systèmes agricoles;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Soutenir le développement de projets ayant un impact significatif sur l’écosystème socioéconomique et technologique en promouvant la mise en oeuvre d’initiatives qui favorisent l’amélioration des conditions de vie des populations locales et qui contribuent au progrès économique et technologique de la région;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Renforcer la collaboration entre les chercheurs de l’UM6P et de l’INRA afin de favoriser l’échange de connaissances.</span></div><div><b>Thématique du programme :</b></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Agronomie, Agriculture et Sciences vétérinaires</span></div>",
+            "targetPartners": "UM6P, FOCP",
+            "contactPerson": "adnane.lansari@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "GMV - Programme R&D de la grande Muraille Verte",
+            "type": "En cours",
+            "description": "<div><b>Objectifs du programme :</b></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Identifier des solutions pertinentes et efficaces pour répondre aux défis spécifiques liés au tracé de la Grande Muraille Verte;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Encourager l’innovation et la créativité dans la recherche de solutions adaptées aux besoins et aux contraintes de la Grande Muraille Verte;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Assurer la durabilité des solutions proposées en tenant compte des aspects environnementaux, économiques et sociaux.</span></div><div><b>Thématique du programme </b>: Sciences de l’environnement, Eau et Sol</div>",
+            "targetPartners": "ASERGMV, FOCP",
+            "contactPerson": "adnane.lansari@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "P2V - Préservation et Valorisation du Patrimoine Naturel",
+            "type": "En cours",
+            "description": "<div><b>Objectifs du programme :</b></div><div>• Encourager la recherche dans le domaine des sciences de la terre et de la vie;</div><div>• Soutenir le développement de projets ayant de l’impact sur l’écosystème socio-économique;</div><div>• Créer et renforcer la collaboration entre les chercheurs de l’IS et de l’UM6P.</div><div><b>Thématiques du programme :</b></div><div>• Santé, Médecine, Biologie et Biotechnologie;</div><div>• Valorisation du patrimoine naturel.</div>",
+            "targetPartners": "Institut Scientifique de Rabat (ISR), FOCP",
+            "contactPerson": "hicham.lahdili@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "PMA - Plantes Médicinales & Aromatiques",
+            "type": "En cours",
+            "description": "<div><b>Objectifs du programme :</b></div><div>• Promouvoir la recherche appliquée, le développement technologique et l’innovation ;</div><div>• Encourager la recherche dans le domaine des sciences de la terre et de la vie ;</div><div>• Soutenir le développement de projets ayant de l’impact sur l’écosystème socio-économique ;</div><div>• Créer et renforcer la collaboration entre les chercheurs de l’ANPMA et de l’UM6P.</div><div><b>Thématique du programme :</b></div><div>• Santé, Médecine, Biologie et Biotechnologie.</div>",
+            "targetPartners": "Agence Nationale des Plantes Médicinales et Aromatiques (ANPMA), FOCP",
+            "contactPerson": "hicham.lahdili@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "TNI - Utilisation des Techniques Nucléaires et Isotopiques",
+            "type": "En cours",
+            "description": "<div><b>Objectifs du programme :</b></div><div>• Encourager la recherche dans les domaines des Sciences et des Technologies nucléaires</div><div>en vue du développement d’applications utilisables dans les secteurs socio-économiques</div><div>Marocains;</div><div>• Soutenir le développement de projets ayant de l’impact sur l’écosystème socio-économique ;</div><div>• Créer et renforcer la collaboration entre les chercheurs du CNESTEN et de l’UM6P.</div><div><b>Thématiques du programme :</b></div><div>• Santé, Médecine, Biologie et Biotechnologie;</div><div>• Matériaux, Chimie et Énergie;</div><div>• Sciences de l’environnement, Eau et Sol.</div>",
+            "targetPartners": "Centre National de l’Energie, des Sciences et des Techniques Nucléaires (CNESTEN), FOCP",
+            "contactPerson": "hicham.lahdili@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "APTT",
+            "type": "En cours",
+            "description": "<div><b>Objectifs du programme :</b></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Contribuer au développement d’une économie Marocaine basée sur l’innovation et la connaissance;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Soutenir le développement et la maturation technologique en vue de la commercialisation de procédés, produits ou services basés sur les résultats et/ou savoir-faire issus de la recherche;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Essaimer la culture de valorisation des résultats de recherche au sein du milieu académique;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Encourager la recherche appliquée et l’innovation;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Contribuer au rapprochement entre le monde académique et le secteur industriel et améliorer la compétitivité des entreprises marocaines.</span></div><div><b>Thématiques du programme :</b></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Agronomie, Agriculture et Sciences vétérinaires;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Industrie aéronautique, logistique et technologies avancées.</span></div>",
+            "targetPartners": "MESRSI, MIC, CNRST, OMPIC, FOCP, UM6P",
+            "contactPerson": "hicham.lahdili@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "APVAR - Valorization of Research Findings/Innovation",
+            "type": "En cours",
+            "description": "<div><b>Objectif du programme :</b> Accompagnement des projets en Transfert Technologique.</div><div><b>Thématiques du programme :</b></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Agronomie, Agriculture et Sciences vétérinaires;</span></div><div>•<span style=\"color: rgb(0 0 0 / var(--tw-text-opacity, 1)); background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));\">Matériaux, Chimie et Énergie.</span></div>",
+            "targetPartners": "FOCP, UM6P",
+            "contactPerson": "adnane.lansari@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "TECHDEV 22 - Appel à Projets de la CHAIR TECH DEV",
+            "type": "Clôture",
+            "description": "<div><b>Objectifs du programme :</b></div><div>• Exploration et développement de projets innovants pour la diversification du business model</div><div>d’OCP;</div><div>• Accompagnement des chercheurs dans la valorisation des résultats de recherche par le</div><div>transfert technologique et l’industrialisation;</div><div>• Développement de programmes de formation dans les domaines en relation avec les</div><div>nouveaux produits et les nouvelles technologies.</div><div><b>Thématiques du programme :</b></div><div>• Valorisation du patrimoine naturel;</div><div>• Matériaux, Chimie et Énergie;</div><div>• Géologie et Minéralogie.</div>",
+            "targetPartners": "FOCP, OCP, UM6P",
+            "contactPerson": "sara.mhamdi@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "TECHDEV 23 - Appel à Projets de la CHAIR TECH DEV",
+            "type": "Clôture",
+            "description": "<div><b>Objectifs du programme :</b></div><div>• Exploration et développement de projets innovants pour la diversification du business model</div><div>d’OCP;</div><div>• Accompagnement des chercheurs dans la valorisation des résultats de recherche par le</div><div>transfert technologique et l’industrialisation;</div><div>• Développement de programmes de formation dans les domaines en relation avec les</div><div>nouveaux produits et les nouvelles technologies.</div><div><b>Thématiques du programme :</b></div><div>• Santé, Médecine, Biologie et Biotechnologie;</div><div>• Matériaux, Chimie et Énergie;</div><div>• Agronomie, Agriculture et Sciences vétérinaires.</div>",
+            "targetPartners": "FOCP, OCP, UM6P",
+            "contactPerson": "sara.mhamdi@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "SFR - Seed Fund Research",
+            "type": "En cours",
+            "description": "<div><b>Objectif du programme :</b></div><div>• Valorisation des résultats de 5 projets SIL en Transfert Technologique.</div><div><b>Thématiques du programme :</b></div><div>• Santé, Médecine, Biologie et Biotechnologie</div><div>• Sciences sociales, Transformation économique, Management et Finance</div>",
+            "targetPartners": "FOCP",
+            "contactPerson": "safa.saadaoui@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "Centre National de la Digitalisation et d'Enseignement à Distance (CNDE)",
+            "type": "En cours",
+            "description": "<div><span style=\"color: rgb(0 0 0/var(--tw-text-opacity,1)); background-color: rgb(255 255 255/var(--tw-bg-opacity,1));\"><b>Objectifs du programme :</b></span></div><div>•<span style=\"color: rgb(0 0 0/var(--tw-text-opacity,1)); background-color: rgb(255 255 255/var(--tw-bg-opacity,1));\">Recherche sur l’ingénierie pédagogique de l’enseignement à distance ;</span></div><div>•<span style=\"color: rgb(0 0 0/var(--tw-text-opacity,1)); background-color: rgb(255 255 255/var(--tw-bg-opacity,1));\">Recherche sur l’accréditation d’une formation à distance ;</span></div><div>•<span style=\"color: rgb(0 0 0/var(--tw-text-opacity,1)); background-color: rgb(255 255 255/var(--tw-bg-opacity,1));\">Recherche sur la production du contenu pédagogique numérique ;</span></div><div>•<span style=\"color: rgb(0 0 0/var(--tw-text-opacity,1)); background-color: rgb(255 255 255/var(--tw-bg-opacity,1));\">Recherche sur l’évaluation de l’enseignement à distance ;</span></div><div><span style=\"color: rgb(0 0 0/var(--tw-text-opacity,1)); background-color: rgb(255 255 255/var(--tw-bg-opacity,1));\">Recherche sur les outils de l’enseignement à distance ;</span></div><div>•<span style=\"color: rgb(0 0 0/var(--tw-text-opacity,1)); background-color: rgb(255 255 255/var(--tw-bg-opacity,1));\">Recherche dans le domaine « learning analytics ».</span></div><div><b>Thématique du programme :</b></div><div>•<span style=\"color: rgb(0 0 0/var(--tw-text-opacity,1)); background-color: rgb(255 255 255/var(--tw-bg-opacity,1));\">Sciences et techniques, sciences juridiques économiques et sociales, lettres, sciences humaines et arts.</span></div>",
+            "targetPartners": "MESRSI,FOCP",
+            "contactPerson": "kenza.bouayad@um6p.ma",
+            "documents": "N/A"
+          },
+          {
+            "name": "R&D Fondation PhosBoucraa",
+            "type": "Clôture",
+            "description": "<div><b>Objectifs du programme :</b></div><div>•<span style=\"color: rgb(0 0 0/var(--tw-text-opacity,1)); background-color: rgb(255 255 255/var(--tw-bg-opacity,1));\">Assurer l’évaluation des projets de R&amp;D ;</span></div><div>•<span style=\"color: rgb(0 0 0/var(--tw-text-opacity,1)); background-color: rgb(255 255 255/var(--tw-bg-opacity,1));\">Etablir des rapports d’évaluation à la FPB ;</span></div><div>•<span style=\"color: rgb(0 0 0/var(--tw-text-opacity,1)); background-color: rgb(255 255 255/var(--tw-bg-opacity,1));\">Participer aux comités scientifiques.</span></div><div><b>Thématique du programme :</b></div><div>•<span style=\"color: rgb(0 0 0/var(--tw-text-opacity,1)); background-color: rgb(255 255 255/var(--tw-bg-opacity,1));\">Agronomie, Agriculture et Sciences vétérinaires.</span></div>",
+            "targetPartners": "FPB, UM6P, FOCP",
+            "contactPerson": "safa.saadaoui@um6p.ma",
+            "documents": "N/A"
+          }
+        ],
+        "Resources_and_Facilities": [],
+        "resources": [
+          {
+            "name": "Aannaque Abdeslam",
+            "type": "Experts",
+            "description": "Ecole Mohammadia d'Ingenieurs, Mohammed V University in RabatThe institution will open in a new tab, Rabat, Morocco",
+            "targetPartners": "aannaque@gmail.com",
+            "contactPerson": "Energie, Science social",
+            "documents": "https://synapse-lilac.vercel.app/uploads/Aannaque%20Abdeslam.doc"
+          },
+          {
+            "name": "AARABE Ahmed",
+            "type": "Expert",
+            "description": "Ecole Nationale des Sciences Appliquées - AgadirThe institution will open in a new tab, Agadir, Morocco",
+            "targetPartners": "aarabe.ahmed@gmail.com",
+            "contactPerson": "Agricultural and biological sciences",
+            "documents": "https://synapse-lilac.vercel.app/uploads/AARABE%20Ahmed.pdf"
+          },
+          {
+            "name": "Abakouy Mostafa",
+            "type": "Expert",
+            "description": "Université Abdelmalek EssaadiThe institution will open in a new tab, Tetouan, Morocco",
+            "targetPartners": "mabakouyable@gmail.com",
+            "contactPerson": "Busines management and accounting / decision science",
+            "documents": "https://synapse-lilac.vercel.app/uploads/Abakouy%20Mostafa.doc"
+          },
+          {
+            "name": "ABBOU Ahmed",
+            "type": "null",
+            "description": "Mohammed V University in Rabat, Rabat, Morocco",
+            "targetPartners": "abbou@emi.ac.ma",
+            "contactPerson": "Engineering/ energy/computer science",
+            "documents": "https://synapse-lilac.vercel.app/uploads/ABBOU%20Ahmed.pdf"
+          },
+          {
+            "name": "ABD-LEFDIL MOHAMMED",
+            "type": "Expert",
+            "description": "Mohammed V University in Rabat, Rabat, Morocco",
+            "targetPartners": "mabdlefdil@gmail.com",
+            "contactPerson": "materials sciencce / physics and astronomy/engineering",
+            "documents": "https://synapse-lilac.vercel.app/uploads/ABD-LEFDIL%20MOHAMMED.pdf"
+          },
+          {
+            "name": "ABID Abdelmajid",
+            "type": "Expert",
+            "description": "Université de Tunis El Manar, Tunis, Tunisia",
+            "targetPartners": "a.abid@oussama.ma",
+            "contactPerson": "Medicine/biochemistruy genrtics molescular biology",
+            "documents": "https://synapse-lilac.vercel.app/uploads/ABID%20Abdelmajid.pdf"
+          },
+          {
+            "name": "ABIDI Abdelmoughit",
+            "type": "Expert",
+            "description": "Faculté des Sciences Semlalia, Marakech, Morocco",
+            "targetPartners": "abidiabdelmoughit@gmail.com",
+            "contactPerson": "Sciences de la Terre et des Planètes, La science des matériaux",
+            "documents": "https://synapse-lilac.vercel.app/uploads/ABIDI%20Abdelmoughit.pdf"
+          },
+          {
+            "name": "ABRINI Jamal",
+            "type": "Expert",
+            "description": "Université Abdelmalek Essaadi, Tetouan, Morocco",
+            "targetPartners": "jabrini@uae.ac.ma",
+            "contactPerson": "agricultural and biological sciences",
+            "documents": "https://synapse-lilac.vercel.app/uploads/ABRINI%20Jamal.pdf"
+          },
+          {
+            "name": "Achbani El Hassan",
+            "type": "Expert",
+            "description": "Institut National de la Recherche Agronomique, Morocco, Rabat, Morocco",
+            "targetPartners": "achbaniofficiel@gmail.com",
+            "contactPerson": "Agricultural and biological sciences",
+            "documents": "https://synapse-lilac.vercel.app/uploads/Achbani%20El%20Hassan.pdf"
+          },
+          {
+            "name": "adil karim",
+            "type": "Expert",
+            "description": "Institut des Molécules et Matériaux du Mans, Le Mans, France",
+            "targetPartners": "karim.adil@univ-lemans.fr",
+            "contactPerson": "chemistry/ chemical engineering",
+            "documents": "https://synapse-lilac.vercel.app/uploads/adil%20karim.pdf"
+          },
+          {
+            "name": "Agard Bruno",
+            "type": "Expert",
+            "description": "Polytechnique Montréal, Montreal, Canada",
+            "targetPartners": "bruno.agard@polymtl.ca",
+            "contactPerson": "engineering/ computer sciences",
+            "documents": "https://synapse-lilac.vercel.app/uploads/Agard%20Bruno.pdf"
+          },
+          {
+            "name": "AHMED FAHLI",
+            "type": "Expert",
+            "description": "Université Hassan 1er, Settat, Morocco",
+            "targetPartners": "mostafa.aghzafen1@uit.ac.ma",
+            "contactPerson": "computer sciences/ engineering",
+            "documents": "https://synapse-lilac.vercel.app/uploads/AHMED%20FAHLI.pdf"
+          },
+          {
+            "name": "AISSAOUI Karima",
+            "type": "Expert",
+            "description": "Université Mohammed Premier Oujda, Oujda, Morocco",
+            "targetPartners": "K.aissaoui@ump.ac.ma",
+            "contactPerson": "engineering/ computer sciences",
+            "documents": "https://synapse-lilac.vercel.app/uploads/AISSAOUI%20Karima.pdf"
+          },
+          {
+            "name": "Ait Ali Mustapha",
+            "type": "Expert",
+            "description": "Université Cadi Ayyad, Marakech, Morocco",
+            "targetPartners": "aitali@uca.ac.ma",
+            "contactPerson": "chemistry/ materials science",
+            "documents": "https://synapse-lilac.vercel.app/uploads/Ait%20Ali%20Mustapha.docx"
+          },
+          {
+            "name": "akhssas ahmed",
+            "type": "Expert",
+            "description": "Ecole Mohammadia d'Ingenieurs, Mohammed V University in Rabat, Rabat, Morocco",
+            "targetPartners": "akhssas@emi.ac.ma",
+            "contactPerson": "engineering/ earth and planetaey sciences",
+            "documents": "https://synapse-lilac.vercel.app/uploads/akhssas%20ahmed.pdf"
+          },
+          {
+            "name": "AMAKDOUF Hicham",
+            "type": "Expert",
+            "description": "Université Sidi Mohamed Ben Abdellah, Fez, Morocco",
+            "targetPartners": "hicham.amakdouf@usmba.ac.ma",
+            "contactPerson": "computer sciences",
+            "documents": "https://synapse-lilac.vercel.app/uploads/akhssas%20ahmed.pdf"
+          },
+          {
+            "name": "Ammar Emna",
+            "type": "Expert",
+            "description": "University of Sfax, Sfax, Tunisia",
+            "targetPartners": "ammarenis@yahoo.fr",
+            "contactPerson": "environmental sciences / chemistry",
+            "documents": "https://synapse-lilac.vercel.app/uploads/Ammar%20Emna.docx"
+          },
+          {
+            "name": "Aouni Zineb",
+            "type": "Expert",
+            "description": "Centre Européen de Recherche en Economie Financière et en Gestion des Entreprises (CEREFIGE), Nancy, France",
+            "targetPartners": "zinebaouni95@gmail.com",
+            "contactPerson": "environmental sciences /  social sciences ",
+            "documents": "https://synapse-lilac.vercel.app/uploads/Aouni%20Zineb.pdf"
+          },
+          {
+            "name": "Asbik Mohamed",
+            "type": "Expert",
+            "description": "Mohammed V University in Rabat, Rabat, Morocco",
+            "targetPartners": "mohamed.asbik@um5.ac.ma",
+            "contactPerson": "energy/engineering",
+            "documents": "https://synapse-lilac.vercel.app/uploads/Asbik%20Mohamed.pdf"
+          },
+          {
+            "name": "ASEHRAOU Abdeslam",
+            "type": "Expert",
+            "description": "Université Mohammed Premier Oujda, Oujda, Morocco",
+            "targetPartners": "a.asehraou@ump.ac.ma",
+            "contactPerson": "biochemistry genetics and molecular biology/ agricultural and biological sciences",
+            "documents": "https://synapse-lilac.vercel.app/uploads/ASEHRAOU%20Abdeslam.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "LA-Legal Affairs",
+        "Head": {
+          "Name": "Tarik SEBTI",
+          "Email": "tarik.sebti@um6p.ma",
+          "PhoneNumber": "+212-101-101"
+        },
+        "Location": "Building K, Floor 1",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Legal consultancy and compliance",
+            "TargetAudience": "UM6P departments and staff",
+            "Availability": "Monday to Friday, 9 AM to 5 PM",
+            "ServiceCost": "Internal service",
+            "ContactPerson": "Tarik SEBTI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Legal Resources Library",
+            "Description": "Access to legal documents and references",
+            "BookingAccessProcess": "On-site access",
+            "Availability": "Weekdays",
+            "Cost": "Free",
+            "ContactPerson": "Tarik SEBTI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Legal Frameworks",
+            "Description": "Developing legal agreements for partnerships",
+            "TargetPartners": "External organizations",
+            "ContactPerson": "Tarik SEBTI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Applied Chemistry and Engineering Research - ACER",
+        "Head": {
+          "Name": "Youssef BELMABKHOUT",
+          "Email": "youssef.belmabkhout@um6p.ma",
+          "PhoneNumber": "+212-202-202"
+        },
+        "Location": "Building L, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Research in applied chemistry",
+            "TargetAudience": "Chemical industries and researchers",
+            "Availability": "Weekdays, 8 AM to 6 PM",
+            "ServiceCost": "Project-based",
+            "ContactPerson": "Youssef BELMABKHOUT"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Chemistry Lab",
+            "Description": "Advanced facilities for chemical research",
+            "BookingAccessProcess": "Email lab admin",
+            "Availability": "Weekdays",
+            "Cost": "Grant or project funded",
+            "ContactPerson": "Youssef BELMABKHOUT"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Research Collaboration",
+            "Description": "Joint research in applied chemistry",
+            "TargetPartners": "Universities and industries",
+            "ContactPerson": "Youssef BELMABKHOUT"
+          }
+        ]
+      }
+    },
+        {
+      "Entity": {
+        "Name": "ACER CoE/ Centre d'excellence de recherche en chimie appliqué et en ingénierie",
+        "Head": {
+          "Name": "Youssef BELMABKHOUT",
+          "Email": "youssef.belmabkhout@um6p.ma",
+          "PhoneNumber": "+212-303-303"
+        },
+        "Location": "Building M, Floor 3",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Research and innovation in applied chemistry",
+            "TargetAudience": "Chemical and materials industries",
+            "Availability": "Weekdays, 9 AM to 6 PM",
+            "ServiceCost": "Project-based pricing",
+            "ContactPerson": "Youssef BELMABKHOUT"
+          },
+          {
+            "ServiceDescription": "Chemical analysis services",
+            "TargetAudience": "Researchers and industrial clients",
+            "Availability": "On demand",
+            "ServiceCost": "Fee per analysis",
+            "ContactPerson": "Youssef BELMABKHOUT"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Chemical Testing Lab",
+            "Description": "State-of-the-art facilities for chemical testing and analysis",
+            "BookingAccessProcess": "Email reservation required",
+            "Availability": "Monday to Friday",
+            "Cost": "Based on usage",
+            "ContactPerson": "Youssef BELMABKHOUT"
+          },
+          {
+            "ResourceName": "Advanced Synthesis Lab",
+            "Description": "Lab for advanced material synthesis",
+            "BookingAccessProcess": "Internal approval required",
+            "Availability": "Weekdays, 9 AM to 5 PM",
+            "Cost": "Grant funded",
+            "ContactPerson": "Youssef BELMABKHOUT"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Industrial Partnerships",
+            "Description": "Collaboration on chemical engineering projects",
+            "TargetPartners": "Chemical and materials companies",
+            "ContactPerson": "Youssef BELMABKHOUT"
+          },
+          {
+            "CollaborationType": "Academic Research",
+            "Description": "Joint research initiatives with universities",
+            "TargetPartners": "Academic institutions",
+            "ContactPerson": "Youssef BELMABKHOUT"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "ESAFE (école de la science d'agriculture et fertilisation et environnement)",
+        "Head": {
+          "Name": "Abdallah OUKKARROUM",
+          "Email": "abdallah.oukarroum@um6p.ma",
+          "PhoneNumber": "+212-404-404"
+        },
+        "Location": "Building N, Floor 1",
+        "Website": "esafe.um6p.ma",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Education in sustainable agriculture",
+            "TargetAudience": "Students and professionals",
+            "Availability": "Semester-based",
+            "ServiceCost": "Tuition fees apply",
+            "ContactPerson": "Abdallah OUKKARROUM"
+          },
+          {
+            "ServiceDescription": "Agriculture workshops",
+            "TargetAudience": "Farmers and agri-businesses",
+            "Availability": "Monthly",
+            "ServiceCost": "Based on attendance",
+            "ContactPerson": "Abdallah OUKKARROUM"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Agriculture Research Labs",
+            "Description": "Facilities for agricultural research",
+            "BookingAccessProcess": "Online registration",
+            "Availability": "Monday to Friday",
+            "Cost": "Membership required",
+            "ContactPerson": "Abdallah OUKKARROUM"
+          },
+          {
+            "ResourceName": "Soil Testing Center",
+            "Description": "Analysis of soil samples for fertility studies",
+            "BookingAccessProcess": "By appointment",
+            "Availability": "Weekdays, 9 AM to 5 PM",
+            "Cost": "Fee per test",
+            "ContactPerson": "Abdallah OUKKARROUM"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Agri-Research Partnerships",
+            "Description": "Collaborative research in sustainable farming",
+            "TargetPartners": "Research organizations and NGOs",
+            "ContactPerson": "Abdallah OUKKARROUM"
+          },
+          {
+            "CollaborationType": "Capacity Building",
+            "Description": "Training programs for farmers",
+            "TargetPartners": "Farmer cooperatives",
+            "ContactPerson": "Abdallah OUKKARROUM"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Audit",
+        "Head": {
+          "Name": "Abdelaziz TAZI",
+          "Email": "abdelaziz.tazi@um6p.ma",
+          "PhoneNumber": "+212-505-505"
+        },
+        "Location": "Building O, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Internal and external auditing services",
+            "TargetAudience": "UM6P departments and affiliates",
+            "Availability": "Year-round",
+            "ServiceCost": "Internal budget allocation",
+            "ContactPerson": "Abdelaziz TAZI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Audit Documentation Center",
+            "Description": "Access to audit reports and guidelines",
+            "BookingAccessProcess": "By request",
+            "Availability": "Weekdays, 9 AM to 4 PM",
+            "Cost": "Free",
+            "ContactPerson": "Abdelaziz TAZI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Compliance Training",
+            "Description": "Workshops on auditing and compliance",
+            "TargetPartners": "Internal staff",
+            "ContactPerson": "Abdelaziz TAZI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "CRSA (Center of remote sensing Applications)",
+        "Head": {
+          "Name": "Abdelghani CHEHBOUNI",
+          "Email": "abdelghani.chehbouni@um6p.ma",
+          "PhoneNumber": "+212-606-606"
+        },
+        "Location": "Building P, Floor 1",
+        "Website": "www.crsa.um6p.ma",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Remote sensing data analysis",
+            "TargetAudience": "Researchers and environmentalists",
+            "Availability": "Weekdays, 8 AM to 5 PM",
+            "ServiceCost": "Subscription-based",
+            "ContactPerson": "Abdelghani CHEHBOUNI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Remote Sensing Lab",
+            "Description": "Lab equipped with advanced remote sensing tools",
+            "BookingAccessProcess": "Online booking required",
+            "Availability": "Monday to Friday",
+            "Cost": "Grant funded",
+            "ContactPerson": "Abdelghani CHEHBOUNI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Environmental Projects",
+            "Description": "Collaborations in environmental monitoring",
+            "TargetPartners": "NGOs and universities",
+            "ContactPerson": "Abdelghani CHEHBOUNI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "département finance et affaires générales FGSES",
+        "Head": {
+          "Name": "Abdellatif QANNARI",
+          "Email": "abdellatif.qannari@um6p.ma",
+          "PhoneNumber": "+212-707-707"
+        },
+        "Location": "Building Q, Floor 2",
+        "Website": "https://www.fgses-um6p.ma/",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Financial management and advisory services",
+            "TargetAudience": "Departments and staff",
+            "Availability": "Monday to Friday, 8 AM to 5 PM",
+            "ServiceCost": "Internal allocation",
+            "ContactPerson": "Abdellatif QANNARI"
+          },
+          {
+            "ServiceDescription": "Budget planning workshops",
+            "TargetAudience": "Department heads",
+            "Availability": "Monthly",
+            "ServiceCost": "Free",
+            "ContactPerson": "Abdellatif QANNARI"
+          },
+          {
+            "ServiceDescription": "Financial policy compliance training",
+            "TargetAudience": "Finance officers",
+            "Availability": "Quarterly",
+            "ServiceCost": "Included in training budget",
+            "ContactPerson": "Abdellatif QANNARI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Financial Database",
+            "Description": "Access to financial records and analysis tools",
+            "BookingAccessProcess": "Online registration",
+            "Availability": "24/7",
+            "Cost": "Free",
+            "ContactPerson": "Abdellatif QANNARI"
+          },
+          {
+            "ResourceName": "Finance Training Room",
+            "Description": "Space for budget planning and financial training",
+            "BookingAccessProcess": "Contact via email",
+            "Availability": "Monday to Friday, 9 AM to 4 PM",
+            "Cost": "Free",
+            "ContactPerson": "Abdellatif QANNARI"
+          },
+          {
+            "ResourceName": "Budget Simulation Tools",
+            "Description": "Digital tools for budget simulation exercises",
+            "BookingAccessProcess": "Internal request required",
+            "Availability": "Weekdays",
+            "Cost": "Internal allocation",
+            "ContactPerson": "Abdellatif QANNARI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Financial Research",
+            "Description": "Joint studies in financial management",
+            "TargetPartners": "Academic institutions",
+            "ContactPerson": "Abdellatif QANNARI"
+          },
+          {
+            "CollaborationType": "Budget Planning Partnerships",
+            "Description": "Collaborative budgeting initiatives",
+            "TargetPartners": "Departments and NGOs",
+            "ContactPerson": "Abdellatif QANNARI"
+          },
+          {
+            "CollaborationType": "Policy Development",
+            "Description": "Collaborating on financial policy formulation",
+            "TargetPartners": "Government and academic bodies",
+            "ContactPerson": "Abdellatif QANNARI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "IAP (Institute of Applied Physics)",
+        "Head": {
+          "Name": "Abdelouahed EL FATIMY",
+          "Email": "abdelouahed.elfatimy@um6p.ma",
+          "PhoneNumber": "+212-808-808"
+        },
+        "Location": "Building R, Floor 3",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Research in applied physics",
+            "TargetAudience": "Researchers and academic institutions",
+            "Availability": "Monday to Friday, 8 AM to 6 PM",
+            "ServiceCost": "Grant-based",
+            "ContactPerson": "Abdelouahed EL FATIMY"
+          },
+          {
+            "ServiceDescription": "Physics workshops and seminars",
+            "TargetAudience": "Students and researchers",
+            "Availability": "Quarterly",
+            "ServiceCost": "Free",
+            "ContactPerson": "Abdelouahed EL FATIMY"
+          },
+          {
+            "ServiceDescription": "Technical support for physics experiments",
+            "TargetAudience": "Research labs",
+            "Availability": "On demand",
+            "ServiceCost": "Project-based pricing",
+            "ContactPerson": "Abdelouahed EL FATIMY"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Physics Research Lab",
+            "Description": "Facilities for advanced physics experiments",
+            "BookingAccessProcess": "Approval required",
+            "Availability": "Monday to Friday",
+            "Cost": "Grant funded",
+            "ContactPerson": "Abdelouahed EL FATIMY"
+          },
+          {
+            "ResourceName": "Seminar Hall",
+            "Description": "Space for physics workshops and events",
+            "BookingAccessProcess": "Online booking",
+            "Availability": "On request",
+            "Cost": "Free",
+            "ContactPerson": "Abdelouahed EL FATIMY"
+          },
+          {
+            "ResourceName": "Physics Simulation Tools",
+            "Description": "Software for physics research simulations",
+            "BookingAccessProcess": "Request license",
+            "Availability": "24/7",
+            "Cost": "Internal allocation",
+            "ContactPerson": "Abdelouahed EL FATIMY"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Physics Research Collaboration",
+            "Description": "Joint projects in applied physics",
+            "TargetPartners": "Research labs and universities",
+            "ContactPerson": "Abdelouahed EL FATIMY"
+          },
+          {
+            "CollaborationType": "Educational Seminars",
+            "Description": "Hosting seminars for physics students",
+            "TargetPartners": "Universities and schools",
+            "ContactPerson": "Abdelouahed EL FATIMY"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "OCP MAINTENANCE SOLUTIONS",
+        "Head": {
+          "Name": "Abdeour JBILI",
+          "Email": "abdenour.jbili@um6p.ma",
+          "PhoneNumber": "+212-909-909"
+        },
+        "Location": "Building S, Floor 1",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Maintenance and engineering solutions",
+            "TargetAudience": "Industrial facilities",
+            "Availability": "Year-round",
+            "ServiceCost": "Project-based pricing",
+            "ContactPerson": "Abdeour JBILI"
+          },
+          {
+            "ServiceDescription": "Equipment diagnostics",
+            "TargetAudience": "Factories and industrial sites",
+            "Availability": "On demand",
+            "ServiceCost": "Fee per diagnostic",
+            "ContactPerson": "Abdeour JBILI"
+          },
+          {
+            "ServiceDescription": "Preventive maintenance planning",
+            "TargetAudience": "Manufacturing companies",
+            "Availability": "Monthly",
+            "ServiceCost": "Subscription-based",
+            "ContactPerson": "Abdeour JBILI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Maintenance Workshop",
+            "Description": "Workshop for equipment repair and diagnostics",
+            "BookingAccessProcess": "Email reservation",
+            "Availability": "Monday to Saturday",
+            "Cost": "Based on project scope",
+            "ContactPerson": "Abdeour JBILI"
+          },
+          {
+            "ResourceName": "Diagnostic Tools",
+            "Description": "Advanced tools for equipment diagnostics",
+            "BookingAccessProcess": "Request through maintenance office",
+            "Availability": "On demand",
+            "Cost": "Pay per use",
+            "ContactPerson": "Abdeour JBILI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Industrial Maintenance Projects",
+            "Description": "Collaborative maintenance solutions",
+            "TargetPartners": "Factories and production facilities",
+            "ContactPerson": "Abdeour JBILI"
+          },
+          {
+            "CollaborationType": "Technical Workshops",
+            "Description": "Workshops on advanced maintenance techniques",
+            "TargetPartners": "Technical schools and industries",
+            "ContactPerson": "Abdeour JBILI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Laboratories for Inorganic Materials dedicated to advancing Sustainable Energy Technologies - LIMSET",
+        "Head": {
+          "Name": "Abdessamad FAIK",
+          "Email": "abdessamad.faik@um6p.ma",
+          "PhoneNumber": "+212-1010-1010"
+        },
+        "Location": "Building T, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Research in sustainable energy materials",
+            "TargetAudience": "Energy industries and researchers",
+            "Availability": "Monday to Friday, 9 AM to 6 PM",
+            "ServiceCost": "Grant-based",
+            "ContactPerson": "Abdessamad FAIK"
+          },
+          {
+            "ServiceDescription": "Material testing and development",
+            "TargetAudience": "Energy companies",
+            "Availability": "On demand",
+            "ServiceCost": "Project-based pricing",
+            "ContactPerson": "Abdessamad FAIK"
+          },
+          {
+            "ServiceDescription": "Innovation consulting in energy technologies",
+            "TargetAudience": "R&D departments",
+            "Availability": "Quarterly",
+            "ServiceCost": "Fee-based",
+            "ContactPerson": "Abdessamad FAIK"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Energy Material Lab",
+            "Description": "Facilities for testing and developing sustainable materials",
+            "BookingAccessProcess": "Contact lab admin",
+            "Availability": "Weekdays",
+            "Cost": "Grant funded",
+            "ContactPerson": "Abdessamad FAIK"
+          },
+          {
+            "ResourceName": "Material Analysis Center",
+            "Description": "Advanced equipment for material analysis",
+            "BookingAccessProcess": "Online registration",
+            "Availability": "Monday to Friday",
+            "Cost": "Fee-based",
+            "ContactPerson": "Abdessamad FAIK"
+          },
+          {
+            "ResourceName": "Sustainable Innovation Hub",
+            "Description": "Collaboration space for innovation in sustainable materials",
+            "BookingAccessProcess": "Request approval",
+            "Availability": "Monday to Friday, 8 AM to 4 PM",
+            "Cost": "Free for collaborators",
+            "ContactPerson": "Abdessamad FAIK"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Energy Material Research",
+            "Description": "Collaborative research in sustainable energy materials",
+            "TargetPartners": "Universities and energy companies",
+            "ContactPerson": "Abdessamad FAIK"
+          },
+          {
+            "CollaborationType": "Innovation Partnerships",
+            "Description": "Joint innovation in energy technologies",
+            "TargetPartners": "Industrial R&D departments",
+            "ContactPerson": "Abdessamad FAIK"
+          },
+          {
+            "CollaborationType": "Sustainable Energy Development",
+            "Description": "Collaborations in advancing renewable energy materials",
+            "TargetPartners": "NGOs and energy startups",
+            "ContactPerson": "Abdessamad FAIK"
+          }
+        ]
+      }
+    },
+        {
+      "Entity": {
+        "Name": "Career center - CC",
+        "Head": {
+          "Name": "Adeline CARTON",
+          "Email": "adeline.carton@um6p.ma",
+          "PhoneNumber": "+212-111-111"
+        },
+        "Location": "Building U, Floor 1",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Career counseling",
+            "TargetAudience": "Students and graduates",
+            "Availability": "Monday to Friday, 9 AM to 5 PM",
+            "ServiceCost": "Free for UM6P members",
+            "ContactPerson": "Adeline CARTON"
+          },
+          {
+            "ServiceDescription": "Resume and interview preparation",
+            "TargetAudience": "Students and job seekers",
+            "Availability": "Weekly workshops",
+            "ServiceCost": "Free",
+            "ContactPerson": "Adeline CARTON"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Job Portal",
+            "Description": "Online job board for UM6P students",
+            "BookingAccessProcess": "Access via university portal",
+            "Availability": "24/7",
+            "Cost": "Free",
+            "ContactPerson": "Adeline CARTON"
+          },
+          {
+            "ResourceName": "Career Library",
+            "Description": "Resources for job search and career development",
+            "BookingAccessProcess": "On-site access",
+            "Availability": "Monday to Friday",
+            "Cost": "Free",
+            "ContactPerson": "Adeline CARTON"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Employer Partnerships",
+            "Description": "Connecting employers with graduates",
+            "TargetPartners": "Companies and industries",
+            "ContactPerson": "Adeline CARTON"
+          },
+          {
+            "CollaborationType": "Internship Programs",
+            "Description": "Creating internship opportunities for students",
+            "TargetPartners": "Organizations and corporations",
+            "ContactPerson": "Adeline CARTON"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "EXECUTIVE EDUCATION in science and technologie",
+        "Head": {
+          "Name": "Adeline CARTON",
+          "Email": "adeline.carton@um6p.ma",
+          "PhoneNumber": "+212-222-222"
+        },
+        "Location": "Building V, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Professional development courses",
+            "TargetAudience": "Mid-level and senior professionals",
+            "Availability": "Semester-based",
+            "ServiceCost": "Fee-based",
+            "ContactPerson": "Adeline CARTON"
+          },
+          {
+            "ServiceDescription": "Workshops on emerging technologies",
+            "TargetAudience": "Tech professionals",
+            "Availability": "Monthly",
+            "ServiceCost": "Subscription-based",
+            "ContactPerson": "Adeline CARTON"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Training Rooms",
+            "Description": "Dedicated spaces for professional courses",
+            "BookingAccessProcess": "Pre-booking required",
+            "Availability": "Monday to Saturday",
+            "Cost": "Free for participants",
+            "ContactPerson": "Adeline CARTON"
+          },
+          {
+            "ResourceName": "Online Learning Platform",
+            "Description": "Digital platform for executive courses",
+            "BookingAccessProcess": "Access with registration",
+            "Availability": "24/7",
+            "Cost": "Included in course fee",
+            "ContactPerson": "Adeline CARTON"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Custom Training Programs",
+            "Description": "Tailored training solutions for companies",
+            "TargetPartners": "Corporations and NGOs",
+            "ContactPerson": "Adeline CARTON"
+          },
+          {
+            "CollaborationType": "Industry Research Collaborations",
+            "Description": "Joint research initiatives in tech fields",
+            "TargetPartners": "Research institutions",
+            "ContactPerson": "Adeline CARTON"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "I.E.LAB (Innovation and entrepreneurship lab)",
+        "Head": {
+          "Name": "Adnane SOULAIMANI",
+          "Email": "adnane.soulimani@um6p.ma",
+          "PhoneNumber": "+212-333-333"
+        },
+        "Location": "Building W, Floor 1",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Startup incubation programs",
+            "TargetAudience": "Aspiring entrepreneurs",
+            "Availability": "Year-round",
+            "ServiceCost": "Grant or equity-based",
+            "ContactPerson": "Adnane SOULAIMANI"
+          },
+          {
+            "ServiceDescription": "Mentorship for startups",
+            "TargetAudience": "Startups in early stages",
+            "Availability": "On demand",
+            "ServiceCost": "Free",
+            "ContactPerson": "Adnane SOULAIMANI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Innovation Labs",
+            "Description": "Spaces for prototype development",
+            "BookingAccessProcess": "Application required",
+            "Availability": "Monday to Friday",
+            "Cost": "Free for incubatees",
+            "ContactPerson": "Adnane SOULAIMANI"
+          },
+          {
+            "ResourceName": "Networking Events",
+            "Description": "Access to entrepreneurial events",
+            "BookingAccessProcess": "Pre-registration required",
+            "Availability": "Monthly",
+            "Cost": "Free",
+            "ContactPerson": "Adnane SOULAIMANI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Startup Funding",
+            "Description": "Co-investment in startups",
+            "TargetPartners": "Venture capitalists and investors",
+            "ContactPerson": "Adnane SOULAIMANI"
+          },
+          {
+            "CollaborationType": "Innovation Competitions",
+            "Description": "Jointly organized startup competitions",
+            "TargetPartners": "Universities and tech hubs",
+            "ContactPerson": "Adnane SOULAIMANI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "GTI5 Green Tech Institute",
+        "Head": {
+          "Name": "Ahmed CHEBAK",
+          "Email": "ahmed.chebak@um6p.ma",
+          "PhoneNumber": "+212-444-444"
+        },
+        "Location": "Building X, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Research in green technologies",
+            "TargetAudience": "Researchers and industries",
+            "Availability": "Monday to Friday, 8 AM to 6 PM",
+            "ServiceCost": "Grant-based",
+            "ContactPerson": "Ahmed CHEBAK"
+          },
+          {
+            "ServiceDescription": "Workshops on sustainability",
+            "TargetAudience": "Students and professionals",
+            "Availability": "Quarterly",
+            "ServiceCost": "Free",
+            "ContactPerson": "Ahmed CHEBAK"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Green Tech Labs",
+            "Description": "Facilities for sustainable tech research",
+            "BookingAccessProcess": "Application required",
+            "Availability": "Monday to Friday",
+            "Cost": "Grant funded",
+            "ContactPerson": "Ahmed CHEBAK"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Sustainability Projects",
+            "Description": "Collaborative efforts in green technologies",
+            "TargetPartners": "NGOs and research organizations",
+            "ContactPerson": "Ahmed CHEBAK"
+          }
+        ]
+      }
+    },    {
+      "Entity": {
+        "Name": "Career center - CC",
+        "Head": {
+          "Name": "Adeline CARTON",
+          "Email": "adeline.carton@um6p.ma",
+          "PhoneNumber": "+212-111-111"
+        },
+        "Location": "Building U, Floor 1",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Career counseling",
+            "TargetAudience": "Students and graduates",
+            "Availability": "Monday to Friday, 9 AM to 5 PM",
+            "ServiceCost": "Free for UM6P members",
+            "ContactPerson": "Adeline CARTON"
+          },
+          {
+            "ServiceDescription": "Resume and interview preparation",
+            "TargetAudience": "Students and job seekers",
+            "Availability": "Weekly workshops",
+            "ServiceCost": "Free",
+            "ContactPerson": "Adeline CARTON"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Job Portal",
+            "Description": "Online job board for UM6P students",
+            "BookingAccessProcess": "Access via university portal",
+            "Availability": "24/7",
+            "Cost": "Free",
+            "ContactPerson": "Adeline CARTON"
+          },
+          {
+            "ResourceName": "Career Library",
+            "Description": "Resources for job search and career development",
+            "BookingAccessProcess": "On-site access",
+            "Availability": "Monday to Friday",
+            "Cost": "Free",
+            "ContactPerson": "Adeline CARTON"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Employer Partnerships",
+            "Description": "Connecting employers with graduates",
+            "TargetPartners": "Companies and industries",
+            "ContactPerson": "Adeline CARTON"
+          },
+          {
+            "CollaborationType": "Internship Programs",
+            "Description": "Creating internship opportunities for students",
+            "TargetPartners": "Organizations and corporations",
+            "ContactPerson": "Adeline CARTON"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "VANGUARD",
+        "Head": {
+          "Name": "Ahmed RATNANI",
+          "Email": "ahmed.ratnani@um6p.ma",
+          "PhoneNumber": "+212-555-555"
+        },
+        "Location": "Building Y, Floor 1",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Advanced research in emerging technologies",
+            "TargetAudience": "Researchers and startups",
+            "Availability": "Monday to Friday, 9 AM to 6 PM",
+            "ServiceCost": "Grant-based",
+            "ContactPerson": "Ahmed RATNANI"
+          },
+          {
+            "ServiceDescription": "Tech commercialization support",
+            "TargetAudience": "Technology innovators",
+            "Availability": "On demand",
+            "ServiceCost": "Fee-based",
+            "ContactPerson": "Ahmed RATNANI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Tech Development Lab",
+            "Description": "Facilities for developing and testing emerging technologies",
+            "BookingAccessProcess": "Request via email",
+            "Availability": "Monday to Saturday",
+            "Cost": "Project funded",
+            "ContactPerson": "Ahmed RATNANI"
+          },
+          {
+            "ResourceName": "Innovation Hub",
+            "Description": "Collaboration space for technology entrepreneurs",
+            "BookingAccessProcess": "Pre-registration required",
+            "Availability": "On request",
+            "Cost": "Free",
+            "ContactPerson": "Ahmed RATNANI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Technology Co-Development",
+            "Description": "Collaborative technology projects with startups",
+            "TargetPartners": "Tech companies",
+            "ContactPerson": "Ahmed RATNANI"
+          },
+          {
+            "CollaborationType": "Research Fellowships",
+            "Description": "Offering fellowships for innovative research",
+            "TargetPartners": "Universities and R&D institutions",
+            "ContactPerson": "Ahmed RATNANI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Language Center",
+        "Head": {
+          "Name": "Ahmed TAYEL",
+          "Email": "ahmed.tayel@um6p.ma",
+          "PhoneNumber": "+212-666-666"
+        },
+        "Location": "Building Z, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Language proficiency courses",
+            "TargetAudience": "Students and professionals",
+            "Availability": "Monday to Friday, 8 AM to 6 PM",
+            "ServiceCost": "Tuition-based",
+            "ContactPerson": "Ahmed TAYEL"
+          },
+          {
+            "ServiceDescription": "Language certification programs",
+            "TargetAudience": "Individuals seeking certification",
+            "Availability": "Quarterly",
+            "ServiceCost": "Exam fee applies",
+            "ContactPerson": "Ahmed TAYEL"
+          },
+          {
+            "ServiceDescription": "Custom language workshops",
+            "TargetAudience": "Corporates and organizations",
+            "Availability": "On demand",
+            "ServiceCost": "Project-based pricing",
+            "ContactPerson": "Ahmed TAYEL"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Language Lab",
+            "Description": "State-of-the-art facilities for language learning",
+            "BookingAccessProcess": "Reservation via portal",
+            "Availability": "Monday to Friday",
+            "Cost": "Included in tuition",
+            "ContactPerson": "Ahmed TAYEL"
+          },
+          {
+            "ResourceName": "Library of Language Resources",
+            "Description": "Books and multimedia resources for language study",
+            "BookingAccessProcess": "On-site access",
+            "Availability": "Monday to Saturday",
+            "Cost": "Free for members",
+            "ContactPerson": "Ahmed TAYEL"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Corporate Training Programs",
+            "Description": "Custom language training for corporate teams",
+            "TargetPartners": "Companies and organizations",
+            "ContactPerson": "Ahmed TAYEL"
+          },
+          {
+            "CollaborationType": "Cultural Exchange Partnerships",
+            "Description": "Promoting language learning through cultural exchange",
+            "TargetPartners": "International schools and organizations",
+            "ContactPerson": "Ahmed TAYEL"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "ARAB classical Philosophy",
+        "Head": {
+          "Name": "Ali Benmakhlouf",
+          "Email": "ali.benmakhlouf@um6p.ma",
+          "PhoneNumber": "+212-777-777"
+        },
+        "Location": "Building AA, Floor 3",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Lectures on Arab classical philosophy",
+            "TargetAudience": "Students and scholars",
+            "Availability": "Weekly",
+            "ServiceCost": "Free",
+            "ContactPerson": "Ali Benmakhlouf"
+          },
+          {
+            "ServiceDescription": "Workshops on philosophical texts",
+            "TargetAudience": "Researchers and enthusiasts",
+            "Availability": "Monthly",
+            "ServiceCost": "Subscription-based",
+            "ContactPerson": "Ali Benmakhlouf"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Philosophy Library",
+            "Description": "Collection of classical texts and research papers",
+            "BookingAccessProcess": "Library membership required",
+            "Availability": "Monday to Saturday",
+            "Cost": "Free for students",
+            "ContactPerson": "Ali Benmakhlouf"
+          },
+          {
+            "ResourceName": "Discussion Forums",
+            "Description": "Space for philosophical discussions and debates",
+            "BookingAccessProcess": "Registration required",
+            "Availability": "Weekly",
+            "Cost": "Free",
+            "ContactPerson": "Ali Benmakhlouf"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Philosophy Research Projects",
+            "Description": "Collaborative research on classical philosophy",
+            "TargetPartners": "Universities and research centers",
+            "ContactPerson": "Ali Benmakhlouf"
+          },
+          {
+            "CollaborationType": "Publishing Partnerships",
+            "Description": "Co-publishing philosophical works",
+            "TargetPartners": "Academic publishers",
+            "ContactPerson": "Ali Benmakhlouf"
+          }
+        ]
+      }
+    },    {
+      "Entity": {
+        "Name": "SE Science de l'éducation - Institute of Education & Academic Effectiveness",
+        "Head": {
+          "Name": "Ali BOUABID",
+          "Email": "ali.bouabid@um6p.ma",
+          "PhoneNumber": "+212-888-888"
+        },
+        "Location": "Building AB, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Educational effectiveness training",
+            "TargetAudience": "Teachers and academic staff",
+            "Availability": "Monday to Friday, 9 AM to 5 PM",
+            "ServiceCost": "Free for staff",
+            "ContactPerson": "Ali BOUABID"
+          },
+          {
+            "ServiceDescription": "Workshops on pedagogy",
+            "TargetAudience": "Educators",
+            "Availability": "Quarterly",
+            "ServiceCost": "Fee-based",
+            "ContactPerson": "Ali BOUABID"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Teaching Lab",
+            "Description": "Equipped space for pedagogy experiments",
+            "BookingAccessProcess": "Online booking",
+            "Availability": "Weekdays",
+            "Cost": "Free for members",
+            "ContactPerson": "Ali BOUABID"
+          },
+          {
+            "ResourceName": "Learning Resource Center",
+            "Description": "Digital resources for academic improvement",
+            "BookingAccessProcess": "Access with registration",
+            "Availability": "24/7",
+            "Cost": "Free",
+            "ContactPerson": "Ali BOUABID"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Education Research",
+            "Description": "Collaborative research on teaching methods",
+            "TargetPartners": "Academic institutions",
+            "ContactPerson": "Ali BOUABID"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "COLCOM (College of Computing)",
+        "Head": {
+          "Name": "Ali KETTANI",
+          "Email": "ali.kettani@um6p.ma",
+          "PhoneNumber": "+212-999-999"
+        },
+        "Location": "Building AC, Floor 1",
+        "Website": "https://cc.um6p.ma/home",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Advanced computing courses",
+            "TargetAudience": "Students and professionals",
+            "Availability": "Semester-based",
+            "ServiceCost": "Tuition-based",
+            "ContactPerson": "Ali KETTANI"
+          },
+          {
+            "ServiceDescription": "Coding bootcamps",
+            "TargetAudience": "Individuals and teams",
+            "Availability": "On demand",
+            "ServiceCost": "Fee-based",
+            "ContactPerson": "Ali KETTANI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "High-Performance Computing Lab",
+            "Description": "Facilities for computational research",
+            "BookingAccessProcess": "Contact lab admin",
+            "Availability": "Weekdays",
+            "Cost": "Project funded",
+            "ContactPerson": "Ali KETTANI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Research Collaborations",
+            "Description": "Joint projects in computing research",
+            "TargetPartners": "Universities and tech companies",
+            "ContactPerson": "Ali KETTANI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "MSDA / Modeling Simulation and Data Analysis",
+        "Head": {
+          "Name": "Ali KETTANI",
+          "Email": "ali.kettani@um6p.ma",
+          "PhoneNumber": "+212-999-999"
+        },
+        "Location": "Building AD, Floor 3",
+        "Website": "https://cc.um6p.ma/home",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Modeling and simulation workshops",
+            "TargetAudience": "Students and researchers",
+            "Availability": "Monthly",
+            "ServiceCost": "Fee-based",
+            "ContactPerson": "Ali KETTANI"
+          },
+          {
+            "ServiceDescription": "Data analysis services",
+            "TargetAudience": "Businesses and researchers",
+            "Availability": "On demand",
+            "ServiceCost": "Project-based pricing",
+            "ContactPerson": "Ali KETTANI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Data Analytics Lab",
+            "Description": "Facility for advanced data analysis",
+            "BookingAccessProcess": "Application required",
+            "Availability": "Weekdays",
+            "Cost": "Grant funded",
+            "ContactPerson": "Ali KETTANI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Data Science Research",
+            "Description": "Joint research projects in data science",
+            "TargetPartners": "Universities and data companies",
+            "ContactPerson": "Ali KETTANI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "AI MOVEMENT / The Moroccan International Center for Artificial Intelligence",
+        "Head": {
+          "Name": "Amal EL FALLAH",
+          "Email": "amal.elfallah-seghrouchni@um6p.ma",
+          "PhoneNumber": "+212-1010-1010"
+        },
+        "Location": "Building AE, Floor 2",
+        "Website": "www.aim.um6p.ma",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "AI workshops and training",
+            "TargetAudience": "Students and professionals",
+            "Availability": "Weekly",
+            "ServiceCost": "Free for students",
+            "ContactPerson": "Amal EL FALLAH"
+          },
+          {
+            "ServiceDescription": "AI consulting services",
+            "TargetAudience": "Businesses and organizations",
+            "Availability": "On demand",
+            "ServiceCost": "Fee-based",
+            "ContactPerson": "Amal EL FALLAH"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "AI Research Lab",
+            "Description": "Facility for AI development and research",
+            "BookingAccessProcess": "Request approval",
+            "Availability": "Weekdays",
+            "Cost": "Grant funded",
+            "ContactPerson": "Amal EL FALLAH"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "AI Research Collaborations",
+            "Description": "Joint research in artificial intelligence",
+            "TargetPartners": "Tech companies and universities",
+            "ContactPerson": "Amal EL FALLAH"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "CSAES (College for Sustainable Agriculture and Environmental Science)",
+        "Head": {
+          "Name": "Anass HAFNAOUI / Bruno GERARD",
+          "Email": "anass.hafnaoui@um6p.ma, bruni.gerard@um6p.ma",
+          "PhoneNumber": "+212-1111-1111"
+        },
+        "Location": "Building AF, Floor 1",
+        "Website": "https://www.um6p.ma/en/school-agriculture-fertilization-and-environmental-sciences",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Sustainable agriculture training",
+            "TargetAudience": "Farmers and agricultural professionals",
+            "Availability": "Monthly",
+            "ServiceCost": "Fee-based",
+            "ContactPerson": "Anass HAFNAOUI"
+          },
+          {
+            "ServiceDescription": "Environmental research support",
+            "TargetAudience": "Researchers and institutions",
+            "Availability": "On request",
+            "ServiceCost": "Project funded",
+            "ContactPerson": "Bruno GERARD"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Agro-Environmental Lab",
+            "Description": "Lab for sustainable agricultural practices",
+            "BookingAccessProcess": "Approval required",
+            "Availability": "Monday to Friday",
+            "Cost": "Grant funded",
+            "ContactPerson": "Anass HAFNAOUI"
+          },
+          {
+            "ResourceName": "Greenhouse Research Center",
+            "Description": "State-of-the-art greenhouse facilities",
+            "BookingAccessProcess": "Online registration",
+            "Availability": "Weekdays",
+            "Cost": "Fee-based",
+            "ContactPerson": "Bruno GERARD"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Agricultural Research Partnerships",
+            "Description": "Joint research projects in agriculture",
+            "TargetPartners": "NGOs and academic institutions",
+            "ContactPerson": "Anass HAFNAOUI"
+          },
+          {
+            "CollaborationType": "Training Workshops",
+            "Description": "Capacity-building programs for sustainable farming",
+            "TargetPartners": "Farmer cooperatives",
+            "ContactPerson": "Bruno GERARD"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "IWRI (Institut International de Recherche en Eau)",
+        "Head": {
+          "Name": "Azzedine EL MIDAOUI",
+          "Email": "azzeddine.elmidaoui@um6p.ma",
+          "PhoneNumber": "+212-2222-2222"
+        },
+        "Location": "Building AG, Floor 3",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Water management training programs",
+            "TargetAudience": "Students and professionals",
+            "Availability": "Semester-based",
+            "ServiceCost": "Tuition fees apply",
+            "ContactPerson": "Azzedine EL MIDAOUI"
+          },
+          {
+            "ServiceDescription": "Hydrological research collaborations",
+            "TargetAudience": "Research institutions",
+            "Availability": "Year-round",
+            "ServiceCost": "Grant funded",
+            "ContactPerson": "Azzedine EL MIDAOUI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Hydrology Lab",
+            "Description": "Facilities for advanced water research",
+            "BookingAccessProcess": "Contact lab manager",
+            "Availability": "Monday to Friday",
+            "Cost": "Grant funded",
+            "ContactPerson": "Azzedine EL MIDAOUI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Hydrological Research",
+            "Description": "Joint research on water sustainability",
+            "TargetPartners": "NGOs and universities",
+            "ContactPerson": "Azzedine EL MIDAOUI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "CBL (Programme Community Based Learning)",
+        "Head": {
+          "Name": "Badre KELLA",
+          "Email": "badre.kella@um6p.ma",
+          "PhoneNumber": "+212-3333-3333"
+        },
+        "Location": "Building AH, Floor 1",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Community development workshops",
+            "TargetAudience": "Students and community leaders",
+            "Availability": "Monthly",
+            "ServiceCost": "Free",
+            "ContactPerson": "Badre KELLA"
+          },
+          {
+            "ServiceDescription": "Project support for community initiatives",
+            "TargetAudience": "Local NGOs",
+            "Availability": "On demand",
+            "ServiceCost": "Grant funded",
+            "ContactPerson": "Badre KELLA"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Community Engagement Hub",
+            "Description": "Space for workshops and meetings",
+            "BookingAccessProcess": "Online request",
+            "Availability": "Monday to Saturday",
+            "Cost": "Free",
+            "ContactPerson": "Badre KELLA"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Community Outreach",
+            "Description": "Collaborative projects with local communities",
+            "TargetPartners": "NGOs and local councils",
+            "ContactPerson": "Badre KELLA"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Science innovation lab - SIL",
+        "Head": {
+          "Name": "Bouchra RAHMOUNI",
+          "Email": "bouchra.rahmouni@um6p.ma",
+          "PhoneNumber": "+212-4444-4444"
+        },
+        "Location": "Building AI, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Innovation workshops",
+            "TargetAudience": "Students and researchers",
+            "Availability": "Weekly",
+            "ServiceCost": "Free",
+            "ContactPerson": "Bouchra RAHMOUNI"
+          },
+          {
+            "ServiceDescription": "Support for research projects",
+            "TargetAudience": "Academic institutions",
+            "Availability": "On demand",
+            "ServiceCost": "Project funded",
+            "ContactPerson": "Bouchra RAHMOUNI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Innovation Hub",
+            "Description": "Facility for collaborative innovation",
+            "BookingAccessProcess": "Online registration",
+            "Availability": "Monday to Friday",
+            "Cost": "Free",
+            "ContactPerson": "Bouchra RAHMOUNI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Innovation Projects",
+            "Description": "Collaborative projects in science and technology",
+            "TargetPartners": "R&D institutions",
+            "ContactPerson": "Bouchra RAHMOUNI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "School of Architecture, Planning & Design - SAP+D",
+        "Head": {
+          "Name": "Carlo ALBERNI",
+          "Email": "carlo.alberini@um6p.ma",
+          "PhoneNumber": "+212-5555-5555"
+        },
+        "Location": "Building AJ, Floor 3",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Architectural design courses",
+            "TargetAudience": "Students and professionals",
+            "Availability": "Semester-based",
+            "ServiceCost": "Tuition-based",
+            "ContactPerson": "Carlo ALBERNI"
+          },
+          {
+            "ServiceDescription": "Workshops on urban planning",
+            "TargetAudience": "Urban designers",
+            "Availability": "Quarterly",
+            "ServiceCost": "Fee-based",
+            "ContactPerson": "Carlo ALBERNI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Design Studio",
+            "Description": "Facility for architectural design projects",
+            "BookingAccessProcess": "Application required",
+            "Availability": "Weekdays",
+            "Cost": "Free for students",
+            "ContactPerson": "Carlo ALBERNI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Urban Development Projects",
+            "Description": "Joint projects in urban design and planning",
+            "TargetPartners": "Government and NGOs",
+            "ContactPerson": "Carlo ALBERNI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Gczsc / Global critical zone science",
+        "Head": {
+          "Name": "Daniel Nahon",
+          "Email": "daniel.nahon@tgpi.org",
+          "PhoneNumber": "+212-000-000"
+        },
+        "Location": "Building AK, Floor 1",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Research in critical zone science",
+            "TargetAudience": "Environmental scientists and researchers",
+            "Availability": "Monday to Friday, 9 AM to 5 PM",
+            "ServiceCost": "Grant-funded",
+            "ContactPerson": "Daniel Nahon"
+          },
+          {
+            "ServiceDescription": "Workshops on critical zone processes",
+            "TargetAudience": "Students and professionals",
+            "Availability": "Monthly",
+            "ServiceCost": "Fee-based",
+            "ContactPerson": "Daniel Nahon"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Critical Zone Lab",
+            "Description": "Facilities for studying soil and ecosystem interactions",
+            "BookingAccessProcess": "Request approval",
+            "Availability": "Monday to Friday",
+            "Cost": "Grant-funded",
+            "ContactPerson": "Daniel Nahon"
+          },
+          {
+            "ResourceName": "Field Research Stations",
+            "Description": "Outdoor facilities for critical zone studies",
+            "BookingAccessProcess": "Online registration",
+            "Availability": "Seasonal",
+            "Cost": "Project-based",
+            "ContactPerson": "Daniel Nahon"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Research Partnerships",
+            "Description": "Collaborations in critical zone science",
+            "TargetPartners": "Universities and environmental organizations",
+            "ContactPerson": "Daniel Nahon"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "EIEA / Laboratoire d’Economie Industrielle de l’Emergence de l’Afrique",
+        "Head": {
+          "Name": "Farouk Nouri",
+          "Email": "farouk.nouri@um6p.ma",
+          "PhoneNumber": "+212-111-111"
+        },
+        "Location": "Building AL, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Research on industrial economics in Africa",
+            "TargetAudience": "Economists and researchers",
+            "Availability": "Monday to Friday, 8 AM to 6 PM",
+            "ServiceCost": "Grant-based",
+            "ContactPerson": "Farouk Nouri"
+          },
+          {
+            "ServiceDescription": "Workshops on economic modeling",
+            "TargetAudience": "Students and policymakers",
+            "Availability": "Quarterly",
+            "ServiceCost": "Free for students",
+            "ContactPerson": "Farouk Nouri"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Economic Modeling Lab",
+            "Description": "Facilities for industrial economic analysis",
+            "BookingAccessProcess": "Online booking",
+            "Availability": "Monday to Friday",
+            "Cost": "Free for researchers",
+            "ContactPerson": "Farouk Nouri"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Policy Research Collaborations",
+            "Description": "Collaborative research on economic policies",
+            "TargetPartners": "Governments and academic institutions",
+            "ContactPerson": "Farouk Nouri"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "AGBS (AgroBioSciences)",
+        "Head": {
+          "Name": "Fassil Kebede YIMAMU",
+          "Email": "fassil.kebede@um6p.ma",
+          "PhoneNumber": "+212-222-222"
+        },
+        "Location": "Building AM, Floor 3",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Research in agro-biosciences",
+            "TargetAudience": "Researchers and agricultural professionals",
+            "Availability": "Monday to Friday, 9 AM to 5 PM",
+            "ServiceCost": "Grant-based",
+            "ContactPerson": "Fassil Kebede YIMAMU"
+          },
+          {
+            "ServiceDescription": "Capacity-building workshops",
+            "TargetAudience": "Farmers and agri-businesses",
+            "Availability": "Monthly",
+            "ServiceCost": "Free",
+            "ContactPerson": "Fassil Kebede YIMAMU"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "AgroBio Lab",
+            "Description": "Facilities for agro-bioscience research",
+            "BookingAccessProcess": "Contact lab admin",
+            "Availability": "Weekdays",
+            "Cost": "Grant funded",
+            "ContactPerson": "Fassil Kebede YIMAMU"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "AgroScience Partnerships",
+            "Description": "Collaborative research in agro-biosciences",
+            "TargetPartners": "NGOs and agricultural research institutions",
+            "ContactPerson": "Fassil Kebede YIMAMU"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "CESFRA (Center of Excellence in Soil and Fertilizer Research in Africa)",
+        "Head": {
+          "Name": "Fassil Kebede YIMAMU",
+          "Email": "fassil.kebede@um6p.ma",
+          "PhoneNumber": "+212-222-222"
+        },
+        "Location": "Building AN, Floor 1",
+        "Website": "https://www.um6p.ma/fr/centre-de-recherche-sur-les-sols-et-fertilisants-en-afrique-cesfra",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Soil and fertilizer research",
+            "TargetAudience": "Researchers and agricultural professionals",
+            "Availability": "Monday to Friday, 8 AM to 4 PM",
+            "ServiceCost": "Project funded",
+            "ContactPerson": "Fassil Kebede YIMAMU"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Fertilizer Research Lab",
+            "Description": "State-of-the-art facilities for fertilizer studies",
+            "BookingAccessProcess": "Approval required",
+            "Availability": "Weekdays",
+            "Cost": "Grant funded",
+            "ContactPerson": "Fassil Kebede YIMAMU"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Fertilizer Research Partnerships",
+            "Description": "Joint studies on soil and fertilizers",
+            "TargetPartners": "Universities and agricultural research centers",
+            "ContactPerson": "Fassil Kebede YIMAMU"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "BPS (biodiversity and plant sciences)",
+        "Head": {
+          "Name": "Gerard BRUNO",
+          "Email": "bruno.gerard@um6p.ma",
+          "PhoneNumber": "+212-333-333"
+        },
+        "Location": "Building AO, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Research in biodiversity and plant sciences",
+            "TargetAudience": "Researchers and environmentalists",
+            "Availability": "Monday to Friday, 9 AM to 6 PM",
+            "ServiceCost": "Project funded",
+            "ContactPerson": "Gerard BRUNO"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Plant Science Lab",
+            "Description": "Facilities for biodiversity research",
+            "BookingAccessProcess": "Online booking",
+            "Availability": "Weekdays",
+            "Cost": "Grant funded",
+            "ContactPerson": "Gerard BRUNO"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Biodiversity Research Collaborations",
+            "Description": "Joint research in biodiversity",
+            "TargetPartners": "NGOs and research institutions",
+            "ContactPerson": "Gerard BRUNO"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Fert explorer",
+        "Head": {
+          "Name": "Gerard BRUNO",
+          "Email": "bruno.gerard@um6p.ma",
+          "PhoneNumber": "+212-333-333"
+        },
+        "Location": "Building AP, Floor 3",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Research and exploration of fertilizers",
+            "TargetAudience": "Researchers and agricultural professionals",
+            "Availability": "On demand",
+            "ServiceCost": "Project funded",
+            "ContactPerson": "Gerard BRUNO"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Fertilizer Exploration Hub",
+            "Description": "Facilities for fertilizer research",
+            "BookingAccessProcess": "Request approval",
+            "Availability": "Weekdays",
+            "Cost": "Free",
+            "ContactPerson": "Gerard BRUNO"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Fertilizer Research Collaborations",
+            "Description": "Collaborative projects in fertilizer exploration",
+            "TargetPartners": "Research organizations",
+            "ContactPerson": "Gerard BRUNO"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "CEPH (Centre d’Expertise pour le Phosphate)",
+        "Head": {
+          "Name": "Hamid MAZOUZ",
+          "Email": "hamid.mazouz@um6p.ma",
+          "PhoneNumber": "+212-444-444"
+        },
+        "Location": "Building AQ, Floor 1",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Expertise in phosphate applications",
+            "TargetAudience": "Industry and researchers",
+            "Availability": "Year-round",
+            "ServiceCost": "Project based",
+            "ContactPerson": "Hamid MAZOUZ"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Phosphate Lab",
+            "Description": "Facilities for phosphate analysis",
+            "BookingAccessProcess": "Request via email",
+            "Availability": "Monday to Friday",
+            "Cost": "Free for projects",
+            "ContactPerson": "Hamid MAZOUZ"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Phosphate Research Collaborations",
+            "Description": "Joint research projects in phosphate usage",
+            "TargetPartners": "Industries and academic institutions",
+            "ContactPerson": "Hamid MAZOUZ"
+          }
+        ]
+      }
+    }
+,    {
+      "Entity": {
+        "Name": "MAScIR – Moroccan Foundation for Advanced Science, Innovation and Research",
+        "Head": {
+          "Name": "Hanane BAYAHIA",
+          "Email": "hanane.bayahia@um6p.ma",
+          "PhoneNumber": "+212-555-111"
+        },
+        "Location": "Building AR, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Research in advanced science and innovation",
+            "TargetAudience": "Researchers and institutions",
+            "Availability": "Monday to Friday, 8 AM to 6 PM",
+            "ServiceCost": "Grant-based",
+            "ContactPerson": "Hanane BAYAHIA"
+          },
+          {
+            "ServiceDescription": "Support for innovation projects",
+            "TargetAudience": "Startups and businesses",
+            "Availability": "On demand",
+            "ServiceCost": "Project funded",
+            "ContactPerson": "Hanane BAYAHIA"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Innovation Lab",
+            "Description": "Facility for advanced science research",
+            "BookingAccessProcess": "Online registration",
+            "Availability": "Monday to Saturday",
+            "Cost": "Grant-funded",
+            "ContactPerson": "Hanane BAYAHIA"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Research Collaborations",
+            "Description": "Joint projects in advanced science and innovation",
+            "TargetPartners": "Research institutions and companies",
+            "ContactPerson": "Hanane BAYAHIA"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Citinnov SA integrated territorial planning and smart cities",
+        "Head": {
+          "Name": "Hassan REDOINE",
+          "Email": "hassan.radoine@um6p.ma",
+          "PhoneNumber": "+212-555-222"
+        },
+        "Location": "Building AS, Floor 3",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Urban planning and smart city development",
+            "TargetAudience": "Municipalities and organizations",
+            "Availability": "Monday to Friday, 9 AM to 5 PM",
+            "ServiceCost": "Project funded",
+            "ContactPerson": "Hassan REDOINE"
+          },
+          {
+            "ServiceDescription": "Workshops on smart city technologies",
+            "TargetAudience": "Urban planners and policymakers",
+            "Availability": "Monthly",
+            "ServiceCost": "Fee-based",
+            "ContactPerson": "Hassan REDOINE"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Smart City Lab",
+            "Description": "Facility for research in urban planning",
+            "BookingAccessProcess": "Online request",
+            "Availability": "Weekdays",
+            "Cost": "Grant funded",
+            "ContactPerson": "Hassan REDOINE"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Urban Planning Collaborations",
+            "Description": "Joint projects in smart city development",
+            "TargetPartners": "Municipalities and NGOs",
+            "ContactPerson": "Hassan REDOINE"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "Direction des Achats",
+        "Head": {
+          "Name": "Hicham BENHSAIN",
+          "Email": "hicham.benhssaen@um6p.ma",
+          "PhoneNumber": "+212-555-333"
+        },
+        "Location": "CCI ",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Procurement and purchasing support",
+            "TargetAudience": "Departments and businesses",
+            "Availability": "Monday to Friday, 8 AM to 4 PM",
+            "ServiceCost": "Internal service",
+            "ContactPerson": "Hicham BENHSAIN"
+          },
+          {
+            "ServiceDescription": "Training on procurement processes",
+            "TargetAudience": "Procurement officers",
+            "Availability": "Quarterly",
+            "ServiceCost": "Free",
+            "ContactPerson": "Hicham BENHSAIN"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Procurement System",
+            "Description": "Digital platform for procurement",
+            "BookingAccessProcess": "Online access",
+            "Availability": "24/7",
+            "Cost": "Free for internal departments",
+            "ContactPerson": "Hicham BENHSAIN"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Procurement Partnerships",
+            "Description": "Collaborative procurement initiatives",
+            "TargetPartners": "Suppliers and vendors",
+            "ContactPerson": "Hicham BENHSAIN"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "HTMR (High Throughput Multidisciplinary Research Laboratory)",
+        "Head": {
+          "Name": "Hicham BENYOUCEF",
+          "Email": "hicham.benyoucef@um6p.ma",
+          "PhoneNumber": "+212-555-444"
+        },
+        "Location": "Building AU, Floor 2",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "High throughput research support",
+            "TargetAudience": "Researchers and labs",
+            "Availability": "Monday to Friday, 9 AM to 5 PM",
+            "ServiceCost": "Grant funded",
+            "ContactPerson": "Hicham BENYOUCEF"
+          },
+          {
+            "ServiceDescription": "Access to multidisciplinary research facilities",
+            "TargetAudience": "Research institutions",
+            "Availability": "On demand",
+            "ServiceCost": "Fee-based",
+            "ContactPerson": "Hicham BENYOUCEF"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "High Throughput Lab",
+            "Description": "Facilities for high throughput research",
+            "BookingAccessProcess": "Request approval",
+            "Availability": "Weekdays",
+            "Cost": "Grant funded",
+            "ContactPerson": "Hicham BENYOUCEF"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Multidisciplinary Research Collaborations",
+            "Description": "Joint research in high throughput technologies",
+            "TargetPartners": "Universities and research centers",
+            "ContactPerson": "Hicham BENYOUCEF"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "TTO (Transfer Technology Office)",
+        "Head": {
+          "Name": "Hicham GOURGUE",
+          "Email": "hicham.gourgue@um6p.ma",
+          "PhoneNumber": "+212-555-555"
+        },
+        "Location": "Building AV, Floor 3",
+        "Website": "https://tto.um6p.ma/",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Technology transfer support",
+            "TargetAudience": "Startups and businesses",
+            "Availability": "Monday to Friday, 9 AM to 6 PM",
+            "ServiceCost": "Project funded",
+            "ContactPerson": "Hicham GOURGUE"
+          },
+          {
+            "ServiceDescription": "Intellectual property consultation",
+            "TargetAudience": "Researchers and inventors",
+            "Availability": "On request",
+            "ServiceCost": "Fee-based",
+            "ContactPerson": "Hicham GOURGUE"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Technology Transfer Office",
+            "Description": "Facility for supporting technology transfer",
+            "BookingAccessProcess": "Online application",
+            "Availability": "Weekdays",
+            "Cost": "Grant funded",
+            "ContactPerson": "Hicham GOURGUE"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Tech Transfer Partnerships",
+            "Description": "Collaborations in transferring technologies to industries",
+            "TargetPartners": "Startups and companies",
+            "ContactPerson": "Hicham GOURGUE"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "DBS (digital business solution)",
+        "Head": {
+          "Name": "Imad-Eddine BOUMHI",
+          "Email": "imad-eddine.boumhi@um6p.ma",
+          "PhoneNumber": "+212-555-666"
+        },
+        "Location": "Building AW, Floor 1",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Digital business solutions consultancy",
+            "TargetAudience": "Businesses and startups",
+            "Availability": "Monday to Friday, 8 AM to 6 PM",
+            "ServiceCost": "Fee-based",
+            "ContactPerson": "Imad-Eddine BOUMHI"
+          },
+          {
+            "ServiceDescription": "Custom digital platform development",
+            "TargetAudience": "Corporates",
+            "Availability": "On demand",
+            "ServiceCost": "Project based",
+            "ContactPerson": "Imad-Eddine BOUMHI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Digital Solutions Lab",
+            "Description": "Facility for developing business platforms",
+            "BookingAccessProcess": "Contact admin",
+            "Availability": "Weekdays",
+            "Cost": "Fee-based",
+            "ContactPerson": "Imad-Eddine BOUMHI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Digital Transformation Projects",
+            "Description": "Collaborations in transforming businesses digitally",
+            "TargetPartners": "IT companies and startups",
+            "ContactPerson": "Imad-Eddine BOUMHI"
+          }
+        ]
+      }
+    },
+    {
+      "Entity": {
+        "Name": "EVOSPORT",
+        "Head": {
+          "Name": "Ismail LYOUBI",
+          "Email": "ismail.lyoubi@um6p.ma",
+          "PhoneNumber": "+212-555-777"
+        },
+        "Location": "Building AX, Sports Complex",
+        "Website": "",
+        "OfferedServices": [
+          {
+            "ServiceDescription": "Sports training and fitness programs",
+            "TargetAudience": "Students and staff",
+            "Availability": "Monday to Saturday, 8 AM to 8 PM",
+            "ServiceCost": "Free for UM6P members",
+            "ContactPerson": "Ismail LYOUBI"
+          },
+          {
+            "ServiceDescription": "Team sports coaching",
+            "TargetAudience": "University teams",
+            "Availability": "Evenings",
+            "ServiceCost": "Free",
+            "ContactPerson": "Ismail LYOUBI"
+          }
+        ],
+        "ResourcesAndFacilities": [
+          {
+            "ResourceName": "Sports Facilities",
+            "Description": "Modern sports complex for various activities",
+            "BookingAccessProcess": "Contact via email",
+            "Availability": "Monday to Saturday",
+            "Cost": "Free for students and staff",
+            "ContactPerson": "Ismail LYOUBI"
+          }
+        ],
+        "CollaborativeOpportunities": [
+          {
+            "CollaborationType": "Sports Partnerships",
+            "Description": "Collaborations in organizing sports events",
+            "TargetPartners": "Sports organizations",
+            "ContactPerson": "Ismail LYOUBI"
+          }
+        ]
+      }
+    }
+
+  ]
+}

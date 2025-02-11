@@ -1,0 +1,878 @@
+{
+    "TTO_Entity": {
+      "Name": "Technology Transfer Office (TTO)",
+      "Email": "TTO@um6p.ma",
+      "Head": {
+        "Name": "Dr. Hicham GOURGUE",
+        "Email": "hicham.gourgue@um6p.ma",
+        "PhoneNumber": "(+212) 0525-073270"
+      },
+      "Location": "Lot 660, Hay Moulay Rachid Ben Guerir, 43150, Morocco",
+      "Website": "tto.um6p.ma",
+      "OfferedServices": [
+        {
+          "ServiceName": "Patent Analysis",
+          "ServiceDescription": "Patent analysis is a process of assessing whether an invention is eligible for patent protection. This analysis is carried out to determine whether the invention meets patentability criteria, such as novelty, inventive step and industrial applicability. Patentability analysis is often performed prior to filing a patent application, to ensure that the invention meets legal requirements and is eligible for patent protection and is performed by TTO members following an official invention declaration within 2 weeks. Patentability analysis often involves a thorough search to determine whether similar inventions have already been patented or published in scientific publications. If an invention is considered patentable, then it is possible to file a patent application to protect the intellectual property rights associated with the technology. This service may be useful to any inventor who already has a prominent idea about the technology to be patented and its components. However, if the inventor wishes to have more information on the field of his technology and his main advances, it is preferable to opt for the service of a technology watch.",
+          "TargetAudience": "Inventors with a prominent idea about the technology to be patented.",
+          "Availability": "Within 2 weeks of an official invention declaration.",
+          "ServiceCost": "",
+          "ContactPerson": "TTO Team"
+        },
+        {
+          "ServiceName": "Patent Drafting",
+          "ServiceDescription": "After a patentability analysis indicating that the technology is eligible for patent filing, the TTO team undertakes to submit the patent application on the national (OMPIC) or international level (PCT filling), and this, in constant collaboration with the inventor(s), as well as a partner law firm. Patent drafting refers to the process of creating a detailed and accurate legal document that describes an invention or innovative idea in a way that meets the legal requirements for obtaining a patent. The document includes a description of the invention, claims that define the scope of the invention, and necessary drawings or diagrams. A patent document must be written in clear, concise language that accurately and comprehensively describes the invention and its features. The document must also meet legal requirements for patentability, including novelty, non-obviousness and industrial applicability. A well-drafted patent application is crucial for obtaining a patent, which can provide inventors with exclusive rights to their inventions and can be a valuable asset for companies seeking to protect their intellectual property.",
+          "TargetAudience": "Inventors with patentable technologies.",
+          "Availability": "",
+          "ServiceCost": "",
+          "ContactPerson": "TTO Team"
+        },
+        {
+          "ServiceName": "Technology Intelligence",
+          "ServiceDescription": "Technology intelligence or technology watch is a process of collecting, analyzing, and disseminating information on technological advances in a particular field. This activity consists of monitoring and analysing relevant information on trends, developments, innovations, patents, scientific publications, events, actors, and partners in a field of activity. Technology watch aims to provide strategic information to companies, organizations, or individuals to enable them to make informed decisions in terms of research and development, marketing, competitive intelligence, or market positioning. It can be done proactively, using automated monitoring and analysis tools, or reactively, addressing specific information needs. TTO can therefore provide information on technology monitoring, depending on the demand or the customer's need. It can be an in-depth analysis of a field or a simple search for relevant wishes to have related documents to better see the major trends and already protected aspects of the technology in question. In short, a technology watch is an important activity to stay up to date on technological and scientific advances in a particular field and to provide useful information for strategic decision-making.",
+          "TargetAudience": "Companies, organizations, or individuals seeking strategic information.",
+          "Availability": "",
+          "ServiceCost": "",
+          "ContactPerson": "TTO Team"
+        },
+        {
+          "ServiceName": "Other IP Assets Protection",
+          "ServiceDescription": "In addition to patents, the TTO is also responsible for protecting other aspects of industrial IP such as trademarks or industrial designs: A trademark is a distinctive sign that identifies the goods or services of one company and differentiates them from those of other companies. It may consist of a name, logo, symbol, colour or any other element that distinguishes it from other brands on the market. The trademark thus makes it possible to identify the commercial origin of a company's goods or services and to give it a certain reputation and added value. An industrial design is an aesthetic creation applied to a utilitarian or industrial object, such as shape, lines, contours, colours or textures. It can concern objects such as furniture, various machines, vehicles or appliances. The industrial design aims to improve the functionality, ergonomics, efficiency and aesthetics of these products while distinguishing them from those of competitors. In order to file an application, it is imperative to know if this trademark or industrial design is already present in the state of the art: TTO is responsible for providing a prior art study to the applicant, whether the trademark or the industrial design, before filing them for possible protection. The registration of a trademark or industrial design can be useful in the sense that they preserve the value of the product or technology in the event that the patent can not be put in place, as well as by creating a competitive advantage in preventing competitors from copying or reproducing a trademark or design. This can help protect the company's market share and strengthen its market position. In sum, protecting a brand and industrial design is important to preserve the company's reputation and value, avoid consumer confusion, encourage innovation and create a competitive advantage; it is a valuable protection strategy for when a patent is not suitable or not applicable.",
+          "TargetAudience": "Companies or individuals seeking to protect non-patent IP assets.",
+          "Availability": "",
+          "ServiceCost": "",
+          "ContactPerson": "TTO Team"
+        },
+        {
+          "ServiceName": "Technology Transfer Management",
+          "ServiceDescription": "Technology transfer management is a process that aims to transfer knowledge and technologies developed through research and development to companies or other organizations that can use them to create new products, services, or processes. This management involves several steps, such as the identification of technologies to be transferred, the protection of intellectual property, the negotiation of licenses or research and development contracts, the creation of spin-offs or the establishment of research partnerships. The TTO plays a key role in this process, helping researchers to add value to their work and connecting them with potential partners. Managing technology transfer can help stimulate innovation, economic value creation and job growth. Before contacting potential buyers of the technology, the TTO also goes through several steps in order to properly assess the level of maturity of the technology through the Technology Readiness Assessment (TRA) process. See Tech Transfer at TTO.",
+          "TargetAudience": "Researchers and industry stakeholders.",
+          "Availability": "",
+          "ServiceCost": "",
+          "ContactPerson": "TTO Team"
+        },
+        {
+          "ServiceName": "Freedom to Operate (FTO) Analysis",
+          "ServiceDescription": "FTO, which stands for 'freedom to operate', is a legal analysis carried out by the TTO, to analyze the possibility of bringing a new technology to the market. The purpose of an FTO analysis is to determine whether there are any intellectual property rights that could be infringed by the technology in question. Intellectual property rights may include patents, trademarks, copyrights and trade secrets. During an FTO analysis, the TTO will conduct a comprehensive review of existing patents and other relevant intellectual property. This review will assess whether there is a risk of infringement associated with the proposed product or service and identify potential intellectual property barriers that could prevent the product or service from being marketed. The FTO analysis process is essential for bringing new products or services to market, as it helps identify and reduce the risk of intellectual property infringement. By performing an FTO analysis, the TTO can assess whether they are free to operate without infringing existing intellectual property rights and, if not, they can take steps to obtain licenses or redesign their product or service to prevent fraud. FTO analysis is therefore an important tool for businesses and individuals looking to market new products or services. By conducting a comprehensive review of existing intellectual property, an FTO analysis can help identify risks of infringement and help companies mitigate those risks, allowing them to operate with confidence and avoid costly lawsuits for intellectual property infringement.",
+          "TargetAudience": "Businesses and individuals bringing new products or services to market.",
+          "Availability": "",
+          "ServiceCost": "",
+          "ContactPerson": "TTO Team"
+        },
+        {
+          "ServiceName": "Overseas Patent Filing Strategy",
+          "ServiceDescription": "It is common for inventors to wish to extend their patent protection beyond Moroccan territory. In this case, a macroscopic study of the technology is made, mainly from a market point of view. If the results are promising and the technology has good market potential, the patent is filed internationally, or more precisely, a PCT filing in the international phase is filed. Before moving into the national phase of the PCT (see patents), a more in-depth study is carried out, called an overseas patent filing strategy. The overseas patent filing strategy is a legal analysis that aims to determine the geographical scope of intellectual property rights. It is important for technology owners who wish to protect their intellectual property rights in different countries or regions of the world. Intellectual property rights, such as patents, trademarks, copyrights and industrial designs, are generally protected at the national or regional level. Thus, to effectively protect their intellectual property rights abroad, companies need to know the laws and regulations applicable in each country or region where they wish to operate. The overseas patent filing strategy involves an analysis of the laws and rules applicable to each type of IP in each specific country or region. This study addresses issues such as legal requirements for obtaining intellectual property protection, terms of protection, application procedures, costs, and litigation procedures.",
+          "TargetAudience": "Inventors seeking international patent protection.",
+          "Availability": "",
+          "ServiceCost": "",
+          "ContactPerson": "TTO Team"
+        },
+        {
+          "ServiceName": "Due Diligence",
+          "ServiceDescription": "Before concluding a license agreement or any other type of agreement between two parties, it is essential to conduct due diligence. Due diligence, also known as due diligence, is a thorough and thorough review procedure that the TTO conducts for its own transactions or for a client before the client enters into a business transaction, such as a merger, acquisition, or disposal of assets. The objective of due diligence is to verify the veracity of the information provided by the other party, identify risks, and understand the legal, financial and operational aspects of the target company. Due diligence is a crucial step in the transaction process as it allows the potential buyer to get a complete picture of the target company, its activities, finances and risks. The TTO can provide different types of due diligence, such as IP due diligence, or legal due diligence, as well as the determination of an anticipated or current TRL if needed (through TRA). IP due diligence consists of examining the patent or other intellectual property portfolio status of the target company, and the accuracy of the information provided, assessing the legal state of the IP and the related risks. Legal due diligence focuses on the legal aspects of the business, such as contracts, licenses, litigation and applicable regulations. The TTO also aims to make the legal and technical jargon more accessible to the client, if the necessity arises.",
+          "TargetAudience": "Companies involved in mergers, acquisitions, or asset disposals.",
+          "Availability": "",
+          "ServiceCost": "",
+          "ContactPerson": "TTO Team"
+        },
+        {
+          "ServiceName": "Workshops & Trainings",
+          "ServiceDescription": "The TTO will be happy to conduct informative and engaging workshops focused on technology transfer and intellectual property management. This workshop is tailored to the need of every member or entity of the UM6P community. The goal of the workshop that to equip participants with essential knowledge and practical strategies for effectively navigating the dynamic world of intellectual property, depending on the need and interests of each participant. The workshop takes the form of an interactive introduction to IP, the patent system, claim drafting techniques and methods, as well as the technology transfer process identifying innovative technologies for negotiating licensing agreements. Through interactive discussions, real-world case studies, and hands-on activities, participants will gain valuable insights into intellectual property protection and marketing of IP. Whether you are an inventor, entrepreneur, researcher, or industry professional, this workshop offers a unique opportunity to enhance your understanding of technology licensing and leverage intellectual property assets to drive innovation and business growth.",
+          "TargetAudience": "Inventors, entrepreneurs, researchers, and industry professionals.",
+          "Availability": "",
+          "ServiceCost": "",
+          "ContactPerson": "TTO Team"
+        }
+      ],
+      "ResourcesAndFacilities": [],
+      "CollaborativeOpportunities": [
+        {
+          "CollaborationType": "Joint ventures and partnerships",
+          "Description": "Fostering relationships between researchers and industry stakeholders by collaborations, joint ventures, and partnerships to leverage research expertise and resources for mutual benefit, such as funding, knowledge exchange, and access to facilities or equipment.",
+          "TargetPartners": "Industry stakeholders and researchers.",
+          "ContactPerson": "TTO Team"
+        }
+      ],
+      "human_resources": [
+        {
+          "name": "Hicham GOURGUE",
+          "fonction": "Director",
+          "Fonction_description": "Dr. Hicham GOURGUE is a professional with expertise in technology transfer, intellectual property management, and academic activities. He is currently the Head of Technology Transfer Office (TTO) as well as Coordinator of UM6P’s Research Committee. With more than 15 thousand hours of experience at UM6P, Dr. GOURGUE has been a driving force behind the establishment of the R&D and Technology Transfer Management Unit. He has exhibited his proficiency in intellectual property management, spearheading technology transfer initiatives, and supervising research and development endeavors. His unwavering commitment and valuable contributions have played a pivotal role in nurturing an innovative culture and advancing technological progress within the university. Before joining UM6P, Dr. GOURGUE served in various academic and research roles at different Moroccan institutions.",
+          "contactPerson": "TTO Team",
+          "email": "Hicham.GOURGUE@um6p.ma",
+          "CV": "LinkedIn: hicham-gourgue"
+        },
+        {
+          "name": "Kaoutar ELOUZI",
+          "fonction": "Technology Licensing Manager",
+          "Fonction_description": "",
+          "contactPerson": "TTO Team",
+          "email": "Kaoutar.ELOUZI@um6p.ma",
+          "CV": "LinkedIn: kaoutar-elouzi"
+        },
+        {
+          "name": "Ilyass MOUSSAID",
+          "fonction": "Technology Transfer Officer, Exact Sciences",
+          "Fonction_description": "",
+          "contactPerson": "TTO Team",
+          "email": "Ilyass.MOUSSAID@um6p.ma",
+          "CV": "LinkedIn: Ilyass Mousaid"
+        },
+        {
+          "name": "El Battoul DIDI",
+          "fonction": "Technology Transfer Assistant, Life Science",
+          "Fonction_description": "",
+          "contactPerson": "TTO Team",
+          "email": "ElBattoul.DIDI@um6p.ma",
+          "CV": "LinkedIn: el-battoul-didi"
+        },
+        {
+          "name": "Imane EL ALAOUI HASSANI",
+          "fonction": "Office & Communication Manager",
+          "Fonction_description": "",
+          "contactPerson": "TTO Team",
+          "email": "Imane.ELALAOUIHASSANI@um6p.ma",
+          "CV": "LinkedIn: imane-el-alaoui-hassani"
+        }
+      ]
+    },
+
+    "Techcell_Entity": {
+        "Name": "TechCell (Technology Development Cell)",
+        "Email": "Tech-cell@um6p.ma",
+        "Head": {
+          "Name": "Mohamed EL KHOUAKHI",
+          "Email": "Mohamed.ELKHOUAKHI@um6p.ma",
+          "PhoneNumber": ""
+        },
+        "Location": "Lot 660, Hay Moulay Rachid, Ben Guerir 43150, Morocco",
+        "Website": "techcell.um6p.ma",
+        "OfferedServices": [
+          {
+            "ServiceName": "Process Design and Scale-up",
+            "ServiceDescription": "Carrying out process engineering studies, process simulation, and prototypes/pilot plants design.",
+            "TargetAudience": "Researchers and industry stakeholders.",
+            "Availability": "Monday to Friday, 9:00am - 6:00pm",
+            "ServiceCost": "",
+            "ContactPerson": "TechCell Team"
+          },
+          {
+            "ServiceName": "Process Modeling and Simulation",
+            "ServiceDescription": "Providing prototypes/pilot plants scale-up expertise.",
+            "TargetAudience": "Researchers and industry stakeholders.",
+            "Availability": "Monday to Friday, 9:00am - 6:00pm",
+            "ServiceCost": "",
+            "ContactPerson": "TechCell Team"
+          },
+          {
+            "ServiceName": "Process Control and Optimization",
+            "ServiceDescription": "Providing expertise in process control and optimization.",
+            "TargetAudience": "Researchers and industry stakeholders.",
+            "Availability": "Monday to Friday, 9:00am - 6:00pm",
+            "ServiceCost": "",
+            "ContactPerson": "TechCell Team"
+          },
+          {
+            "ServiceName": "Evaluation of Technology Maturation",
+            "ServiceDescription": "Providing advice on process technologies.",
+            "TargetAudience": "Researchers and industry stakeholders.",
+            "Availability": "Monday to Friday, 9:00am - 6:00pm",
+            "ServiceCost": "",
+            "ContactPerson": "TechCell Team"
+          },
+          {
+            "ServiceName": "Life Cycle Analysis",
+            "ServiceDescription": "Providing life cycle analysis for processes and technologies.",
+            "TargetAudience": "Researchers and industry stakeholders.",
+            "Availability": "Monday to Friday, 9:00am - 6:00pm",
+            "ServiceCost": "",
+            "ContactPerson": "TechCell Team"
+          },
+          {
+            "ServiceName": "Professional / Executive Consulting and Training in Process Engineering",
+            "ServiceDescription": "Providing advice, consulting, and professional/executive training in process engineering.",
+            "TargetAudience": "Researchers and industry stakeholders.",
+            "Availability": "Monday to Friday, 9:00am - 6:00pm",
+            "ServiceCost": "",
+            "ContactPerson": "TechCell Team"
+          }
+        ],
+        "ResourcesAndFacilities": [],
+        "CollaborativeOpportunities": [],
+        "human_resources": [
+          {
+            "name": "Mohamed EL KHOUAKHI",
+            "fonction": "TechCell-engineering Manager",
+            "Fonction_description": "Dr. Mohamed El Khouakhi leads and manages several R&D projects related to Beneficiation & chemical processes. He earned his Engineer Diploma in 2008 from ENIM, Rabat, and completed his PhD degree in Process Engineering in 2019 at the University of Chouaib Doukkali, Morocco. Before joining UM6P in 2018, he worked at OCP as a Plant Manager and Process Engineer.",
+            "contactPerson": "TechCell Team",
+            "email": "Mohamed.ELKHOUAKHI@um6p.ma",
+            "CV": ""
+          },
+          {
+            "name": "Muthanna Al-Dahhan",
+            "fonction": "Professor",
+            "Fonction_description": "Dr. Muthanna H. Al-Dahhan is a professor in the Chemical and Biochemical Engineering Department, Professor of Nuclear Engineering, and Senior Investigator in the Environmental Research Center at Missouri University of Science and Technology (Missouri S&T). He has extensive experience in chemical reaction engineering and energy-related research.",
+            "contactPerson": "TechCell Team",
+            "email": "Muthanna.ALDAHHAN@um6p.ma",
+            "CV": ""
+          },
+          {
+            "name": "Zakaria BELFKIRA",
+            "fonction": "Mechanical Process Design Engineer",
+            "Fonction_description": "Mr. Zakaria BELFKIRA is a Mechanical Process Design Engineer at TechCell. He graduated from Mohammadia School of Engineers (EMI) in 2012 and has experience in structural design and project management, particularly in the aerospace industry.",
+            "contactPerson": "TechCell Team",
+            "email": "Zakaria.BELFKIRA@um6p.ma",
+            "CV": ""
+          },
+          {
+            "name": "Samya LAROUECH",
+            "fonction": "Process & Performance Engineer",
+            "Fonction_description": "Mrs. Samya LAROUECH is a Process & Performance Engineer at TechCell. She graduated as a Process and Chemical Engineer in 2018 and is currently pursuing a PhD while working on process engineering projects.",
+            "contactPerson": "TechCell Team",
+            "email": "Samya.LAROUECH@um6p.ma",
+            "CV": ""
+          },
+          {
+            "name": "Tariq OUBA",
+            "fonction": "Chemical Engineer",
+            "Fonction_description": "Mr. Tariq OUBA is a Chemical Engineer at TechCell. He earned his engineering degree in agri-food engineering in 2019 and has experience in process design, scale-up, and optimization. He is also certified in quality management and process modeling software like ASPEN PLUS and ANSYS Fluent.",
+            "contactPerson": "TechCell Team",
+            "email": "Tariq.OUBA@um6p.ma",
+            "CV": ""
+          },
+          {
+            "name": "Khamiss EL KANDOUSSI",
+            "fonction": "Process Engineer",
+            "Fonction_description": "Khamiss EL KANDOUSSI is a Process Engineer at TechCell. He graduated with a master’s degree in materials and process engineering in 2022 and is passionate about process engineering and problem-solving.",
+            "contactPerson": "TechCell Team",
+            "email": "Khamiss.ELKANDOUSSI@um6p.ma",
+            "CV": ""
+          }
+        ]
+      },
+
+   "UGF_Entity": {
+
+      "Name": "Unité de Gestion des Fonds (UGF)",
+      "Head": {
+        "Name": "Ryad Mouline",
+        "Email": "Ryad.Mouline@um6p.ma",
+        "PhoneNumber": ""
+      },
+      "Location": "Lot 660, Hay Moulay Rachid, Ben Guerir 43150, Morocco",
+      "Website": "www.ugf.um6p.ma",
+      "Offered_Services": [
+        {
+          "name": "Ingénierie des besoins",
+          "description": "Identification des thématiques, des thèmes ou des sujets",
+          "target": "null",
+          "cost": "null",
+          "availability": "null",
+          "contactPerson": "null",
+          "documents": "N/A"
+        },
+        {
+          "name": "Elaboration des termes de référence (TDR)",
+          "description": "Règlement des appels à projets",
+          "target": "null",
+          "cost": "null",
+          "availability": "null",
+          "contactPerson": "null",
+          "documents": "N/A"
+        },
+        {
+          "name": "Lancement des AP",
+          "description": "En une ou deux étapes, avec cibles identifiées en collaboration",
+          "target": "null",
+          "cost": "null",
+          "availability": "null",
+          "contactPerson": "null",
+          "documents": "N/A"
+        },
+        {
+          "name": "Sélection des projets",
+          "description": "Sur la base de budgets pré-définis",
+          "target": "null",
+          "cost": "null",
+          "availability": "null",
+          "contactPerson": "null",
+          "documents": "N/A"
+        },
+        {
+          "name": "Contractualisation des projets retenus",
+          "description": "null",
+          "target": "null",
+          "cost": "null",
+          "availability": "null",
+          "contactPerson": "null",
+          "documents": "N/A"
+        },
+        {
+          "name": "Mise en œuvre des projets",
+          "description": "Gestion des activités conformément aux objectifs",
+          "target": "null",
+          "cost": "null",
+          "availability": "null",
+          "contactPerson": "null",
+          "documents": "N/A"
+        },
+        {
+          "name": "Exécution des besoins des équipes projets",
+          "description": "Fourniture des ressources nécessaires",
+          "target": "null",
+          "cost": "null",
+          "availability": "null",
+          "contactPerson": "null",
+          "documents": "N/A"
+        },
+        {
+          "name": "Suivi et évaluation de l’avancement",
+          "description": "Mesure des progrès des projets",
+          "target": "null",
+          "cost": "null",
+          "availability": "null",
+          "contactPerson": "null",
+          "documents": "N/A"
+        },
+        {
+          "name": "Suivi des livrables des projets",
+          "description": "null",
+          "target": "null",
+          "cost": "null",
+          "availability": "null",
+          "contactPerson": "null",
+          "documents": "N/A"
+        },
+        {
+          "name": "Clôture des projets",
+          "description": "Documentation finale et résultats",
+          "target": "null",
+          "cost": "null",
+          "availability": "null",
+          "contactPerson": "null",
+          "documents": "N/A"
+        },
+        {
+          "name": "Étude d’impact",
+          "description": "Analyse des résultats des projets",
+          "target": "null",
+          "cost": "null",
+          "availability": "null",
+          "contactPerson": "null",
+          "documents": "N/A"
+        },
+        {
+          "name": "Organisation de manifestations scientifiques",
+          "description": "Mise en avant des résultats et perspectives",
+          "target": "null",
+          "cost": "null",
+          "availability": "null",
+          "contactPerson": "null",
+          "documents": "N/A"
+        }
+      ],
+      "ResourcesAndFacilities": [],
+      "CollaborativeOpportunities": [
+        {
+          "CollaborationType": "Partenariats Stratégiques",
+          "Description": "L'UGF collabore avec des partenaires nationaux et internationaux pour promouvoir la recherche et l'innovation, notamment avec le MESRSI, la Fondation OCP, le CNRST, et des universités étrangères.",
+          "TargetPartners": "Institutions de recherche, universités, et partenaires industriels.",
+          "ContactPerson": "UGF Team"
+        }
+      ],
+      "human_resources": [
+        {
+          "name": "Ryad Mouline",
+          "fonction": "Head UGF",
+          "contactPerson": "UGF Team",
+          "email": "Ryad.Mouline@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Walid Adani",
+          "fonction": "Administration Platformes",
+          "contactPerson": "UGF Team",
+          "email": "Walid.Adani@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Meryem Ait Hamou",
+          "fonction": "Administration Platformes",
+          "contactPerson": "UGF Team",
+          "email": "Meryem.AitHamou@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Brahim Arnezaourou",
+          "fonction": "Administration Platformes",
+          "contactPerson": "UGF Team",
+          "email": "Brahim.Arnezaourou@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Ziyad Azafadh",
+          "fonction": "Communication",
+          "contactPerson": "UGF Team",
+          "email": "Ziyad.Azafadh@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Naima Ben Dahhan",
+          "fonction": "Finance",
+          "contactPerson": "UGF Team",
+          "email": "Naima.BenDahhan@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Taha Benihda",
+          "fonction": "Administration Platformes",
+          "contactPerson": "UGF Team",
+          "email": "Taha.Benihda@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Amine Bouski",
+          "fonction": "Administration Platformes",
+          "contactPerson": "UGF Team",
+          "email": "Amine.Bouski@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Zakariae Chakrane",
+          "fonction": "Finance",
+          "contactPerson": "UGF Team",
+          "email": "Zakariae.Chakrane@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Houndida El Ghannami",
+          "fonction": "IT",
+          "contactPerson": "UGF Team",
+          "email": "Houndida.ElGhannami@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Mohamed El Khalili",
+          "fonction": "Achats",
+          "contactPerson": "UGF Team",
+          "email": "Mohamed.ElKhalili@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Leila El Mazouni",
+          "fonction": "Administration Platformes",
+          "contactPerson": "UGF Team",
+          "email": "Leila.ElMazouni@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Wiam Essekkat",
+          "fonction": "Juridique",
+          "contactPerson": "UGF Team",
+          "email": "Wiam.Essekkat@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Mohamed Et-Tahery",
+          "fonction": "Administration Platformes",
+          "contactPerson": "UGF Team",
+          "email": "Mohamed.EtTahery@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Abdeljaili Ettiba",
+          "fonction": "Project Management",
+          "contactPerson": "UGF Team",
+          "email": "Abdeljaili.Ettiba@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Abdellatif Ettiba",
+          "fonction": "Administration Platformes",
+          "contactPerson": "UGF Team",
+          "email": "Abdellatif.Ettiba@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Nadia Kamal",
+          "fonction": "Administration Platformes",
+          "contactPerson": "UGF Team",
+          "email": "Nadia.Kamal@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Anas Katif",
+          "fonction": "Finance",
+          "contactPerson": "UGF Team",
+          "email": "Anas.Katif@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Abdeladil Kossir",
+          "fonction": "Advisory Board",
+          "contactPerson": "UGF Team",
+          "email": "Abdeladil.Kossir@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Karima Laziz",
+          "fonction": "Project Management",
+          "contactPerson": "UGF Team",
+          "email": "Karima.Laziz@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Hicham Lahdili",
+          "fonction": "Project Management",
+          "contactPerson": "UGF Team",
+          "email": "Hicham.Lahdili@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Mohamed Lahouaoui",
+          "fonction": "Project Management",
+          "contactPerson": "UGF Team",
+          "email": "Mohamed.Lahouaoui@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Adnane Lansari",
+          "fonction": "Project Management",
+          "contactPerson": "UGF Team",
+          "email": "Adnane.Lansari@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Azeddine Lazouzi",
+          "fonction": "Finance",
+          "contactPerson": "UGF Team",
+          "email": "Azeddine.Lazouzi@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Amine Lemgaddar",
+          "fonction": "Finance",
+          "contactPerson": "UGF Team",
+          "email": "Amine.Lemgaddar@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Nadia Makraum",
+          "fonction": "Juridique",
+          "contactPerson": "UGF Team",
+          "email": "Nadia.Makraum@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Khalid Masbahi",
+          "fonction": "Advisory Board",
+          "contactPerson": "UGF Team",
+          "email": "Khalid.Masbahi@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Anas Medkouri",
+          "fonction": "Project Management",
+          "contactPerson": "UGF Team",
+          "email": "Anas.Medkouri@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Ayyoub Raziq",
+          "fonction": "Achats",
+          "contactPerson": "UGF Team",
+          "email": "Ayyoub.Raziq@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Safa Saadaoui",
+          "fonction": "Project Management",
+          "contactPerson": "UGF Team",
+          "email": "Safa.Saadaoui@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Zineb Syafi",
+          "fonction": "Achats",
+          "contactPerson": "UGF Team",
+          "email": "Zineb.Syafi@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "Charaf eddine Zerrak",
+          "fonction": "Finance",
+          "contactPerson": "UGF Team",
+          "email": "CharafEddine.Zerrak@um6p.ma",
+          "CV": ""
+        },
+        {
+          "name": "AARABE Ahmed",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "email": "aarabe.ahmed@gmail.com",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/AARABE%20Ahmed.pdf"
+        },
+        {
+          "name": "ABBOU Ahmed",
+          "type": "null",
+          "description": "Mohammed V University in Rabat, Rabat, Morocco",
+          "email": "abbou@emi.ac.ma",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/ABBOU%20Ahmed.pdf"
+        },
+        {
+          "name": "ABD-LEFDIL MOHAMMED",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "description": "Mohammed V University in Rabat, Rabat, Morocco",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/ABD-LEFDIL%20MOHAMMED.pdf"
+        },
+        {
+          "name": "ABID Abdelmajid",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "description": "Université de Tunis El Manar, Tunis, Tunisia",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/ABID%20Abdelmajid.pdf"
+        },
+        {
+          "name": "ABIDI Abdelmoughit",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "description": "Faculté des Sciences Semlalia, Marakech, Morocco",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/ABIDI%20Abdelmoughit.pdf"
+        },
+        {
+          "name": "ABRINI Jamal",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "description": "Université Abdelmalek Essaadi, Tetouan, Morocco",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/ABRINI%20Jamal.pdf"
+        },
+        {
+          "name": "Achbani El Hassan",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "email": "achbaniofficiel@gmail.com",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/Achbani%20El%20Hassan.pdf"
+        },
+        {
+          "name": "adil karim",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "email": "karim.adil@univ-lemans.fr",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/adil%20karim.pdf"
+        },
+        {
+          "name": "Agard Bruno",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "description": "Polytechnique Montréal, Montreal, Canada",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/Agard%20Bruno.pdf"
+        },
+        {
+          "name": "AHMED FAHLI",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "description": "Université Hassan 1er, Settat, Morocco",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/AHMED%20FAHLI.pdf"
+        },
+        {
+          "name": "AISSAOUI Karima",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "email": "K.aissaoui@ump.ac.ma",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/AISSAOUI%20Karima.pdf"
+        },
+        {
+          "name": "Ait Ali Mustapha",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "description": "Université Cadi Ayyad, Marakech, Morocco",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/Ait%20Ali%20Mustapha.docx"
+        },
+        {
+          "name": "akhssas ahmed",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "email": "akhssas@emi.ac.ma",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/akhssas%20ahmed.pdf"
+        },
+        {
+          "name": "Aouni Zineb",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "email": "zinebaouni95@gmail.com",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/Aouni%20Zineb.pdf"
+        },
+        {
+          "name": "Asbik Mohamed",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "description": "Mohammed V University in Rabat, Rabat, Morocco",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/Asbik%20Mohamed.pdf"
+        },
+        {
+          "name": "ASEHRAOU Abdeslam",
+          "Fonction": "Expert évaluateur chez l'unité de gestion des fonds (UGF)",
+          "email": "a.asehraou@ump.ac.ma",
+          "contactPerson": "UGF Team",
+          "CV": "https://synapse-lilac.vercel.app/uploads/ASEHRAOU%20Abdeslam.pdf"
+        }
+      ],
+      "Lunched_programs": [
+        {
+          "name": "APRD - Appel à Projets R&D",
+          "type": "En cours",
+          "description": " Objectifs du programme :• Encourager la recherche appliquée, la technologie et l’innovation ;• Renforcer le rapprochement entre le monde académique, d’un côté, et le monde de l’entrepriseet des opérateurs socio-économiques et améliorer la compétitivité des entreprises marocaines;• Créer une nouvelle dynamique au niveau de la recherche nationale en encourageant larecherche appliquée et le transfert technologique.Thématiques du programme :• Matériaux, Chimie et Énergie ;• Santé, Médecine, Biologie et Biotechnologie ;• Agronomie, Agriculture et Sciences vétérinaires;• Géologie et Minéralogie ;• Sciences de l’Environnement, Eau et Sol ;• Intelligence Artificielle, Mathématiques appliquées et Nanotechnologie",
+          "targetPartners": "UM6P, MESRSI, FOCP et CNRST",
+          "contactPerson": "mohamed.lahouaoui@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "APRA - Appel à Projets R&D Multithématique",
+          "type": "En cours",
+          "description": "Objectifs du programme :• Promouvoir la recherche appliquée, le développement technologique et l’innovation ;• Favoriser la collaboration multidisciplinaire intra-UM6P ;• Stimuler l’émergence d’idées de projets dans différents domaines ;• Créer une nouvelle dynamique dans la recherche à l’UM6P en élargissant son champd’investigation ;• Renforcer les liens entre l’UM6P et le monde de l’entreprise ainsi que les acteurs socioéconomiqueset améliorer la compétitivité des entreprises marocaines.Thématiques du programme :• Géologie et Minéralogie• Sciences sociales, Transformation économique, Management et Finance• Santé, Médecine, Biologie et Biotechnologie• Sciences de l’environnement, Eau et Sol• Matériaux, Chimie et Énergie• Urbanisme et développement durable• Agronomie, Agriculture et Sciences vétérinaires",
+          "targetPartners": "UM6P, FOCP",
+          "contactPerson": "safa.saadaoui@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "Appel à projets R&D en sciences de la vie",
+          "type": "En cours",
+          "description": "Objectifs du programme :•Encourager la recherche dans le domaine des sciences de la vie ;•Soutenir le développement de projets ayant de l’impact sur l’écosystème socio-économique, technologique et sanitaire ;•Renforcer la collaboration entre les chercheurs INH et de UM6P.Thématiques du programme :•Santé, Médecine, Biologie et Biotechnologie,•Intelligence Artificielle, Mathématiques appliquées et Nanotechnologie.",
+          "targetPartners": "UM6P, FOCP",
+          "contactPerson": "safa.saadaoui@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "Appel à projets R&D en Virologie et Biotechnologie",
+          "type": "En cours",
+          "description": "Objectifs du programme :•Encourager la recherche dans le domaine de virologie ;•Soutenir le développement de projets ayant de l’impact sur l’écosystème technologique et sanitaire ;•Renforcer la collaboration entre les chercheurs IPM et de UM6P.Thématiques du programme :•Santé, Médecine, Biologie et Biotechnologie;•Intelligence Artificielle, Mathématiques appliquées et Nanotechnologie.",
+          "targetPartners": "UM6P, FOCP",
+          "contactPerson": "safa.saadaoui@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "SEHSM : Economics, Humanities, Social Sciences and Management",
+          "type": "En cours",
+          "description": "Objectifs du programme :• Encourager la recherche appliquée dans le domaine de l’économie, des sciences humaines,des sciences sociales et de la gestion ;• Valider des axes de recherche prometteurs dans le cadre de projets de recherches délimités ;• Soutenir le développement de projets académiques ambitieux et leur impact sur l’écosystèmeéconomique ;• Encourager l’interdisciplinarité.Thématiques du programme :• Sciences sociales, Transformation économique, Management et Finance• Urbanisme et développement durable",
+          "targetPartners": "UM6P, FOCP",
+          "contactPerson": "safa.saadaoui@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "SIL - Social Innovation Lab",
+          "type": "En cours",
+          "description": "Objectif du programme :• Mettre en place un modèle social innovant suite à la crise de coronavirus qu’a connu le mondeentier.Thématiques du programme :• Sciences sociales, Transformation économique, Management et Finance",
+          "targetPartners": "UM6P, FOCP",
+          "contactPerson": "safa.saadaoui@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "GAP YIELD",
+          "type": "En cours",
+          "description": "Objectif du programme :• Analyse des écarts de rendement de l’échelle locale à l’échelle mondiale dans le contextedu changement climatique en Afrique à l’aide de la télédétection et de la modélisation de lacroissance des cultures sciences de l’environnement, eau et sol.Thématiques du programme :• Sciences de l’environnement, Eau et Sol",
+          "targetPartners": "A-LAB, SRCA/African Partner, FOCP",
+          "contactPerson": "abdeljalil.ettiba@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "INRA - Programme de R&D UM6P/INRA",
+          "type": "En cours",
+          "description": "Objectifs du programme :•Encourager la recherche dans les domaines de l’agriculture en stimulant l’exploration de nouvelles méthodes, technologies et pratiques agricoles afin d’améliorer la productivité, la durabilité environnementale et la résilience des systèmes agricoles;•Soutenir le développement de projets ayant un impact significatif sur l’écosystème socioéconomique et technologique en promouvant la mise en oeuvre d’initiatives qui favorisent l’amélioration des conditions de vie des populations locales et qui contribuent au progrès économique et technologique de la région;•Renforcer la collaboration entre les chercheurs de l’UM6P et de l’INRA afin de favoriser l’échange de connaissances.Thématique du programme :•Agronomie, Agriculture et Sciences vétérinaires",
+          "targetPartners": "UM6P, FOCP",
+          "contactPerson": "adnane.lansari@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "GMV - Programme R&D de la grande Muraille Verte",
+          "type": "En cours",
+          "description": "Objectifs du programme :•Identifier des solutions pertinentes et efficaces pour répondre aux défis spécifiques liés au tracé de la Grande Muraille Verte;•Encourager l’innovation et la créativité dans la recherche de solutions adaptées aux besoins et aux contraintes de la Grande Muraille Verte;•Assurer la durabilité des solutions proposées en tenant compte des aspects environnementaux, économiques et sociaux.Thématique du programme : Sciences de l’environnement, Eau et Sol",
+          "targetPartners": "ASERGMV, FOCP",
+          "contactPerson": "adnane.lansari@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "P2V - Préservation et Valorisation du Patrimoine Naturel",
+          "type": "En cours",
+          "description": "Objectifs du programme :• Encourager la recherche dans le domaine des sciences de la terre et de la vie;• Soutenir le développement de projets ayant de l’impact sur l’écosystème socio-économique;• Créer et renforcer la collaboration entre les chercheurs de l’IS et de l’UM6P.Thématiques du programme :• Santé, Médecine, Biologie et Biotechnologie;• Valorisation du patrimoine naturel.",
+          "targetPartners": "Institut Scientifique de Rabat (ISR), FOCP",
+          "contactPerson": "hicham.lahdili@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "PMA - Plantes Médicinales & Aromatiques",
+          "type": "En cours",
+          "description": "Objectifs du programme :• Promouvoir la recherche appliquée, le développement technologique et l’innovation ;• Encourager la recherche dans le domaine des sciences de la terre et de la vie ;• Soutenir le développement de projets ayant de l’impact sur l’écosystème socio-économique ;• Créer et renforcer la collaboration entre les chercheurs de l’ANPMA et de l’UM6P.Thématique du programme :• Santé, Médecine, Biologie et Biotechnologie.",
+          "targetPartners": "Agence Nationale des Plantes Médicinales et Aromatiques (ANPMA), FOCP",
+          "contactPerson": "hicham.lahdili@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "TNI - Utilisation des Techniques Nucléaires et Isotopiques",
+          "type": "En cours",
+          "description": "Objectifs du programme :• Encourager la recherche dans les domaines des Sciences et des Technologies nucléairesen vue du développement d’applications utilisables dans les secteurs socio-économiquesMarocains;• Soutenir le développement de projets ayant de l’impact sur l’écosystème socio-économique ;• Créer et renforcer la collaboration entre les chercheurs du CNESTEN et de l’UM6P.Thématiques du programme :• Santé, Médecine, Biologie et Biotechnologie;• Matériaux, Chimie et Énergie;• Sciences de l’environnement, Eau et Sol.",
+          "targetPartners": "Centre National de l’Energie, des Sciences et des Techniques Nucléaires (CNESTEN), FOCP",
+          "contactPerson": "hicham.lahdili@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "APTT",
+          "type": "En cours",
+          "description": "Objectifs du programme :•Contribuer au développement d’une économie Marocaine basée sur l’innovation et la connaissance;•Soutenir le développement et la maturation technologique en vue de la commercialisation de procédés, produits ou services basés sur les résultats et/ou savoir-faire issus de la recherche;•Essaimer la culture de valorisation des résultats de recherche au sein du milieu académique;•Encourager la recherche appliquée et l’innovation;•Contribuer au rapprochement entre le monde académique et le secteur industriel et améliorer la compétitivité des entreprises marocaines.Thématiques du programme :•Agronomie, Agriculture et Sciences vétérinaires;•Industrie aéronautique, logistique et technologies avancées.",
+          "targetPartners": "MESRSI, MIC, CNRST, OMPIC, FOCP, UM6P",
+          "contactPerson": "hicham.lahdili@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "APVAR - Valorization of Research Findings/Innovation",
+          "type": "En cours",
+          "description": "Objectif du programme : Accompagnement des projets en Transfert Technologique.Thématiques du programme :•Agronomie, Agriculture et Sciences vétérinaires;•Matériaux, Chimie et Énergie.",
+          "targetPartners": "FOCP, UM6P",
+          "contactPerson": "adnane.lansari@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "TECHDEV 22 - Appel à Projets de la CHAIR TECH DEV",
+          "type": "Clôture",
+          "description": "Objectifs du programme :• Exploration et développement de projets innovants pour la diversification du business modeld’OCP;• Accompagnement des chercheurs dans la valorisation des résultats de recherche par letransfert technologique et l’industrialisation;• Développement de programmes de formation dans les domaines en relation avec lesnouveaux produits et les nouvelles technologies.Thématiques du programme :• Valorisation du patrimoine naturel;• Matériaux, Chimie et Énergie;• Géologie et Minéralogie.",
+          "targetPartners": "FOCP, OCP, UM6P",
+          "contactPerson": "sara.mhamdi@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "TECHDEV 23 - Appel à Projets de la CHAIR TECH DEV",
+          "type": "Clôture",
+          "description": "Objectifs du programme :• Exploration et développement de projets innovants pour la diversification du business modeld’OCP;• Accompagnement des chercheurs dans la valorisation des résultats de recherche par letransfert technologique et l’industrialisation;• Développement de programmes de formation dans les domaines en relation avec lesnouveaux produits et les nouvelles technologies.Thématiques du programme :• Santé, Médecine, Biologie et Biotechnologie;• Matériaux, Chimie et Énergie;• Agronomie, Agriculture et Sciences vétérinaires.",
+          "targetPartners": "FOCP, OCP, UM6P",
+          "contactPerson": "sara.mhamdi@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "SFR - Seed Fund Research",
+          "type": "En cours",
+          "description": "Objectif du programme :• Valorisation des résultats de 5 projets SIL en Transfert Technologique.Thématiques du programme :• Santé, Médecine, Biologie et Biotechnologie• Sciences sociales, Transformation économique, Management et Finance",
+          "targetPartners": "FOCP",
+          "contactPerson": "safa.saadaoui@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "Centre National de la Digitalisation et d'Enseignement à Distance (CNDE)",
+          "type": "En cours",
+          "description": "Objectifs du programme :•Recherche sur l’ingénierie pédagogique de l’enseignement à distance ;•Recherche sur l’accréditation d’une formation à distance ;•Recherche sur la production du contenu pédagogique numérique ;•Recherche sur l’évaluation de l’enseignement à distance ;Recherche sur les outils de l’enseignement à distance ;•Recherche dans le domaine « learning analytics ».Thématique du programme :•Sciences et techniques, sciences juridiques économiques et sociales, lettres, sciences humaines et arts.",
+          "targetPartners": "MESRSI,FOCP",
+          "contactPerson": "kenza.bouayad@um6p.ma",
+          "documents": "N/A"
+        },
+        {
+          "name": "R&D Fondation PhosBoucraa",
+          "type": "Clôture",
+          "description": "Objectifs du programme :•Assurer l’évaluation des projets de R&D ;•Etablir des rapports d’évaluation à la FPB ;•Participer aux comités scientifiques.Thématique du programme :•Agronomie, Agriculture et Sciences vétérinaires.",
+          "targetPartners": "FPB, UM6P, FOCP",
+          "contactPerson": "safa.saadaoui@um6p.ma",
+          "documents": "N/A"
+        }
+      ]
+    
+  
+}
+}
