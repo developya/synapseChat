@@ -1,25 +1,46 @@
-import streamlit as st
+import os
+import time
+from flask import Flask, request, render_template
 from dotenv import load_dotenv
-from PyPDF2 import PdfReader
+
+# LangChain imports
 from langchain.text_splitter import CharacterTextSplitter
-from langchain.embeddings import OpenAIEmbeddings, HuggingFaceInstructEmbeddings
+from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
 from langchain.chat_models import ChatOpenAI
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
-from htmlTemplates import css, bot_template, user_template
 
-import pandas as pd
+load_dotenv()  # Load .env if you store OPENAI_API_KEY or other secrets
 
-def get_pdf_text(pdf_docs):
-        with st.spinner("Processing..."):
-            with open("entities_dummy_data.json", encoding="utf-8") as fd:
-                 file_contents = pd.read_json(fd).to_csv(index=False)
-       
-                 return file_contents
+app = Flask(__name__)
+
+# --------------------------
+# Global variables for the demo:
+# In production (especially on serverless), you might need
+# external storage for chat_history or conversation_chain
+# to ensure continuity across requests.
+# --------------------------
+conversation_chain = None
+chat_history = []
+
+
+def load_json():
+    """
+    Loads your file data. 
+    Equivalent to your loadJSon() function in Streamlit code.
+    """
+    # In your case, you were loading from "lastData.txt"
+    # or some other file. Adapt as needed:
+    with open("lastData.txt", "r", encoding="utf-8") as f:
+        file_contents = f.read()
+    return file_contents
 
 
 def get_text_chunks(text):
+    """
+    Splits text into chunks for embeddings.
+    """
     text_splitter = CharacterTextSplitter(
         separator="\n",
         chunk_size=1000,
@@ -31,18 +52,23 @@ def get_text_chunks(text):
 
 
 def get_vectorstore(text_chunks):
+    """
+    Builds a FAISS vectorstore from text chunks using OpenAI embeddings.
+    """
     embeddings = OpenAIEmbeddings()
-    # embeddings = HuggingFaceInstructEmbeddings(model_name="hkunlp/instructor-xl")
-    vectorstore = FAISS.from_texts(texts=text_chunks, embedding=embeddings)
+    vectorstore = FAISS.from_texts(text_chunks, embedding=embeddings)
     return vectorstore
 
 
-def get_conversation_chain(vectorstore):
-    llm = ChatOpenAI(model="gpt-4o-mini")
-    # llm = HuggingFaceHub(repo_id="google/flan-t5-xxl", model_kwargs={"temperature":0.5, "max_length":512})
-
+def create_conversation_chain(vectorstore):
+    """
+    Creates the ConversationalRetrievalChain using ChatOpenAI (GPT-4).
+    """
+    llm = ChatOpenAI(model="gpt-4")  # or whichever model you want
     memory = ConversationBufferMemory(
-        memory_key='chat_history', return_messages=True)
+        memory_key='chat_history',
+        return_messages=True
+    )
     conversation_chain = ConversationalRetrievalChain.from_llm(
         llm=llm,
         retriever=vectorstore.as_retriever(),
@@ -51,53 +77,42 @@ def get_conversation_chain(vectorstore):
     return conversation_chain
 
 
-def handle_userinput(user_question):
-    response = st.session_state.conversation({'question': user_question})
-    st.session_state.chat_history = response['chat_history']
+@app.route('/', methods=['GET', 'POST'])
+def index():
+    """
+    Main route to display and handle the chat.
+    """
+    global conversation_chain, chat_history
 
-    for i, message in enumerate(st.session_state.chat_history):
-        if i % 2 == 0:
-            st.write(user_template.replace(
-                "{{MSG}}", message.content), unsafe_allow_html=True)
-        else:
-            st.write(bot_template.replace(
-                "{{MSG}}", message.content), unsafe_allow_html=True)
-   
+    # If GET request, it means user just opened the page
+    if request.method == 'GET':
+        # If we have not yet loaded or created our conversation chain, do it now:
+        if conversation_chain is None:
+            raw_text = load_json()
+            text_chunks = get_text_chunks(raw_text)
+            vectorstore = get_vectorstore(text_chunks)
+            conversation_chain = create_conversation_chain(vectorstore)
 
-def main():
-    load_dotenv()
-    st.set_page_config(page_title="Chat with SYNAPSE")
-    st.write(css, unsafe_allow_html=True)
+        # Render the page with the current chat history
+        # (which might be empty at first).
+        return render_template('index.html', chat_history=chat_history)
 
-    if "conversation" not in st.session_state:
-        st.session_state.conversation = None
-    if "chat_history" not in st.session_state:
-        st.session_state.chat_history = None
+    else:
+        # POST request: user submitted a question from the form
+        user_question = request.form.get('user_question', '')
 
-    st.header("Chat with SYNAPSE")
-    user_question = st.text_input("Ask a question to SYNAPSE")
-    if user_question:
-        handle_userinput(user_question)
+        if user_question.strip():
+            # Get a response from the chain
+            response = conversation_chain({'question': user_question})
+            chat_history = response['chat_history']
 
-    with st.sidebar:
-        st.subheader("Your documents")
-        pdf_docs = st.file_uploader(
-            "Upload your PDFs here and click on 'Process'", accept_multiple_files=True)
-        if st.button("Process"):
-            with st.spinner("Processing"):
-                # get pdf text
-                raw_text = get_pdf_text(pdf_docs)
+            # Optional: you can add a small delay to mimic "thinking" as in Streamlit
+            time.sleep(1)
 
-                # get the text chunks
-                text_chunks = get_text_chunks(raw_text)
-
-                # create vector store
-                vectorstore = get_vectorstore(text_chunks)
-
-                # create conversation chain
-                st.session_state.conversation = get_conversation_chain(
-                    vectorstore)
+        # Re-render the page with the updated chat history
+        return render_template('index.html', chat_history=chat_history)
 
 
 if __name__ == '__main__':
-    main()
+    # For local development
+    app.run(debug=True)
